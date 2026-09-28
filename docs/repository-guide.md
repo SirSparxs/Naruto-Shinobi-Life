@@ -37,3 +37,14 @@ To inspect earlier text, use the file's history or repository commit history. A 
 Avoid opening future GM files if you want to preserve surprises. Repository privacy protects against public access; it does not hide files from you as owner.
 
 No game has started. Before play, we still need the Open mechanics and persistence contract in [the backlog](../migration/README.md).
+
+## ChatGPT working convention
+
+Established 2026-09-28 by explicit user instruction.
+
+- Keep each ChatGPT project message under **20,000 characters** so conversations can be migrated cleanly.
+- Use this repository to preserve substantive rules, balance decisions, design changes, simulation concepts and, once play begins, persistent campaign facts.
+- Follow the existing repository architecture rather than creating parallel ad-hoc ledgers.
+- Discussion does not automatically become canon: apply the status rules in [decision-policy.md](decision-policy.md).
+- When a hidden fact can affect later play, persist it in the appropriate campaign/GM state instead of relying on unrecorded model reasoning.
+
