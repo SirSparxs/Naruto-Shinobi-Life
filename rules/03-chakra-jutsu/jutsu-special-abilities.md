@@ -216,6 +216,39 @@ Medical failure can mean no effect, incomplete stabilization, wasted chakra, del
 
 NPCs and players use identical medical rules. Competent medics should prioritize triage, stabilization and resource management rather than automatically spending the most chakra on the most visibly injured person.
 
+## Provisional — 3.14 Sensory ninjutsu and chakra detection
+
+Sensory capability is not one universal sense. Techniques can detect chakra presence, direction, distance, identity, quantity, movement, nature, emotional disturbance, foreign chakra, barriers, life signs or other specified properties. Every sensory technique defines what information it can reveal, at what precision and under what conditions.
+
+Proposed Sensory Ninjutsu track:
+- Basic I–V
+- Intermediate I–V
+- Advanced I–V
+- Expert I–V
+- Master I–V
+
+Sensory skill interacts primarily with Perception, Chakra Control, technique mastery and relevant knowledge; Intelligence, Chakra, Willpower or special abilities may matter for particular techniques. High Perception alone does not grant chakra sensing.
+
+Sensing can be passive, active, pulsed, focused, field-based, contact-based or tethered. Passive sensing is less intrusive but usually weaker; active sensing can improve range/detail at greater chakra/concentration cost and may itself be detectable.
+
+Range and precision trade off. A broad scan can find large signatures at long distance but provides less detail; focused sensing can identify fine differences over a smaller area. Techniques may separately define detection range, identification range and analysis range.
+
+Every chakra user has a signature, but recognition requires prior familiarity, records or a sufficiently distinctive pattern. Detecting a signature is not the same as identifying the person's abilities, exact chakra points, remaining reserves or intentions. Sensors usually perceive qualitative estimates unless a specific technique grants greater precision.
+
+Chakra suppression opposes sensory detection. Suppression can reduce apparent strength, leakage and recognizability but does not normally erase chakra completely. Detection contests consider sensor skill/technique, target Control/suppression, distance, movement, environment, barriers, familiarity and signature strength.
+
+Concealment, masking and false signatures are distinct. Suppression reduces detectability; masking alters apparent properties; imitation attempts to resemble another signature. The latter two require specialized techniques rather than ordinary Chakra Control.
+
+Environmental chakra noise, dense populations, battlefields, large techniques, natural energy, barriers, seals and unusual dimensions can interfere with sensing. Physical walls do not automatically block chakra only techniques/materials that actually interfere should do so.
+
+Multiple signatures impose cognitive load. Large-area sensing can produce sensory overload, false positives or reduced discrimination. Mastery and experience improve filtering. Sensors can focus on known signatures or categories, but doing so may miss unexpected threats.
+
+Tracking requires repeated or continuous detection rather than a one-time scan. A target leaving range, suppressing chakra, crossing interfering barriers or using misleading signatures can break or complicate tracking. Sensors do not automatically know the target's exact path if they lost contact.
+
+Sensory information can be shared only through an explicit communication mechanism. Team sensors can report observations normally; telepathic, linked-network or barrier-integrated sharing requires specific abilities.
+
+NPCs and players use identical sensory rules. The engine may track exact hidden values internally while presenting only the information the character's sensing actually supports.
+
 ## Open — later sections
 
 sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
