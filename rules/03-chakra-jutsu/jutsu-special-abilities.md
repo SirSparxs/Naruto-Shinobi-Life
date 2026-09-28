@@ -114,8 +114,31 @@ Characters may begin one technique while maintaining another when both technique
 
 NPCs and players use the same execution rules. Observers can potentially read seals, preparation cues and chakra buildup depending on perception, knowledge and special abilities, creating tactical counterplay.
 
+## Provisional — 3.10 Sustained techniques, concentration and multiple chakra processes
+
+Techniques with duration must specify whether they are self-sustaining, actively maintained, tethered, persistent, or permanent-until-broken. Duration and concentration are separate: a long-lasting technique may require no attention after activation, while a short technique may demand total focus.
+
+Proposed concentration grades:
+- None
+- Light
+- Moderate
+- Heavy
+- Total
+
+Concentration burden is influenced by technique complexity, mastery, Chakra Control, movement, injury, emotional disruption, sensory load and simultaneous chakra processes. Higher mastery may reduce concentration requirements only where the technique supports it.
+
+Maintenance cost is distinct from activation cost. A sustained technique can consume chakra continuously, periodically, conditionally, or not at all after activation. Some techniques may instead lock/divide chakra rather than continuously consume it.
+
+A character can maintain multiple chakra processes when their combined attention, Control and Output demands remain manageable. Simple or deeply mastered processes can become effectively automatic; complex concurrent processes impose escalating difficulty. There is no fixed universal slot count.
+
+Loss of concentration can cause degradation, instability, collapse or backlash depending on the technique. Unconsciousness normally ends actively maintained techniques, but self-sustaining, autonomous, sealed, summoned or otherwise persistent effects may continue if their record explicitly permits it. User death follows the same technique-specific rule rather than a universal cancellation rule.
+
+Range and connection matter. Some maintained techniques are tethered to the user and weaken or break beyond a defined distance; others persist independently once created. Obstacles, barriers, dimensions and chakra disruption can interfere with connection only when the technique relies on one.
+
+Maintenance and simultaneous-process rules apply equally to clones, barriers, sensory fields, chakra threads, transformations, genjutsu and other long-duration effects, with subsystem-specific exceptions defined later.
+
 ## Open — later sections
 
-sustained techniques; clones; genjutsu; medical ninjutsu; sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+clones; genjutsu; medical ninjutsu; sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
