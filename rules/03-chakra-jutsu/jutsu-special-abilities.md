@@ -1,36 +1,81 @@
 # Jutsu, learning and special abilities
 
+Status: Established explicit decisions; Provisional developed mechanics; Open remaining design.
+
 ## Established — creative permission and persistent learning
 
-Sources: S0 user brief (jutsu/training); S3 explicit non-canon permission, turn 3045d7a7-087f-4d0c-90e9-79021962b01e.
+Sources: S0 user brief (jutsu/training); S3 explicit non-canon permission.
 
 Coherent non-canon techniques are permitted when aligned with established principles. They are not automatically known, affordable, genetically accessible or successful. Learning takes time, access and training; individual mastery develops through practice and experience.
 
 Keep a persistent learned-jutsu list. Broad nature skill does not mean mastery of every technique using it.
 
-## Provisional — technique record contract
+## Provisional — 3.5 Shape Transformation
 
-The initial brief requests name, rank, type, nature, mastery, chakra cost, requirements and description. The developed discussion suggests separating cost from output requirement and defining concrete exceptions.
+Shape Transformation is distinct from Chakra Control, Chakra Output, Nature Transformation and individual jutsu mastery.
 
-A future record should therefore specify:
+Proposed track:
+- Basic I–V
+- Intermediate I–V
+- Advanced I–V
+- Expert I–V
+- Master I–V
 
-- Identity, version, source/provenance and design status.
-- Rank/type/nature and the method/effect.
-- Attribute, skill, knowledge, lineage and access prerequisites.
-- Activation, maintenance and scaling costs; safe output/control requirements with time units.
-- Range, area, duration, activation method and interruption conditions.
-- Learning and individual mastery behavior.
-- Efficiency floor, scaling profile, limits, counters and risks.
-- Exact changes to ordinary resolution or consequence rules.
+It governs form, structure, stability, density, compression, rotation, direction, multiple shapes and reshaping. Scale and complexity are distinct: a huge simple wall may demand Output but little shaping, while a tiny intricate structure may demand high Shape Transformation.
 
-This is a proposed authoring contract, not a finished schema or an invented catalog of jutsu.
+Shape complexity, creation difficulty and maintenance difficulty are technique properties. Pure-shape techniques are valid. Nature + shape combination adds difficulty. Equipment can act as a physical shape anchor. General Shape skill provides broad capability; individual jutsu mastery provides technique-specific familiarity and optimization.
 
-## Open — remaining design scope
+## Provisional — 3.6 Jutsu classification and data model
 
-The original outline covers shape transformation; hand seals; technique classification and ranks; acquisition and teaching; mastery and modification; invention; genjutsu; medical applications; sensing; barriers; sealing; summons; bloodlines; dōjutsu; transformations; forbidden techniques; Sage-related and foreign chakra; stored/borrowed power; compatibility; counters; technique interactions; knowledge/access; rarity and generational transmission.
+Rank is an overall classification of complexity, danger, training burden and expected expertise, not a direct damage score and not a ninja-rank gate. E/D/C/B/A/S remain standard ranks. Kinjutsu is a separate tag.
 
-Those topics are preserved in the [outline excerpt](../../migration/reference/chakra-jutsu.md), but an outline heading is not a completed mechanic. Some details may exist in unreadable source tails; do not infer them.
+A formal jutsu record should be able to specify:
+- Identity: name, version, rank, classification, role tags.
+- Requirements: attributes, skills, knowledge, lineage, equipment and special abilities.
+- Chakra mechanics: base/variable/maintenance cost, minimum functional cost, Control, Output, Nature and Shape requirements.
+- Execution: seals, handsign complexity, activation, preparation, range, area and targeting.
+- Effect: function, duration, concentration and scaling dimensions/profile.
+- Risk: intrinsic stability, failure profile, user risk and target threat.
+- Interaction: counters, environmental requirements/modifiers and interruption rules.
+- Progression: learnability, source/provenance, individual mastery, variants and derivatives.
 
-New abilities need understandable mechanisms, attainable prerequisites, costs and failure/counterplay consistent with the simulation. No unbounded scaling, cost-free exceptions or protagonist privilege. Specific exceptions must state exactly what they override.
+Rank summarizes the record but never replaces its actual prerequisites. Techniques may have hard and soft prerequisites. Cost and Output are separate. A technique may scale only in specified dimensions and may have a functional floor. Absolutes such as "cannot be dodged" should be exceptionally rare.
 
-Prioritize fundamentals and interfaces before expanding the ability catalog. Track completion in [issue #3](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/3).
+Original techniques use the same record contract and receive no mechanical privilege. Experimental techniques may be less stable, more expensive or riskier until refined.
+
+## Provisional — 3.7 Jutsu learning and acquisition
+
+Learning is separated into Access -> Comprehension -> Acquisition -> Functional Use -> Mastery.
+
+Access may come from instructors, scrolls, clan teaching, academy/village curricula, observation/copying, reverse engineering, research, inheritance/special abilities or self-development. Access does not waive prerequisites.
+
+A learner can be below recommended soft prerequisites, but learning becomes slower, less reliable and potentially more dangerous. Hard prerequisites cannot normally be bypassed without an explicit legitimate mechanism.
+
+Technique learning should accumulate persistent progress rather than use one binary success roll. Progress depends on technique complexity, prerequisite gaps, attributes, relevant skills, instruction quality, training method, time, feedback, resources, fatigue and individual aptitude. Ruleset 2 resolves uncertain training events; Ruleset 1 governs long-term growth.
+
+Proposed learning states:
+- Unknown
+- Exposed
+- Understood
+- Training
+- Partially Learned
+- Functional
+- Learned
+
+"Learned" means repeatable independent execution under ordinary conditions, not mastery.
+
+Teachers accelerate comprehension, diagnose errors and improve training safety, but cannot transfer their own mastery directly. Scroll quality and completeness matter. Demonstration alone may omit internal chakra details.
+
+Observation can provide information without automatically granting execution. Copying requires the observer to reproduce all underlying nature, shape, anatomy, lineage, tool, contract and knowledge requirements. Dōjutsu or other copying abilities modify observation/comprehension rather than erasing impossible prerequisites.
+
+Training failures can still provide progress when the attempt is appropriate and produces useful feedback. Trivial repetition gives sharply diminishing returns. Dangerous techniques can injure learners during acquisition.
+
+Characters may learn variants before broad mastery when taught narrowly, but that creates narrow competence rather than full discipline knowledge. Interrupted learning progress persists, though long disuse can reduce practical sharpness.
+
+NPCs use the same acquisition rules. Their available teachers, institutions, clans, careers, interests, mission history and time budgets shape what they learn. Rank correlates with access and experience but does not grant techniques.
+
+## Open — later sections
+
+Individual jutsu mastery; hand seals/casting speed; sustained techniques; clones; genjutsu; medical ninjutsu; sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+
+Track completion in issue #3.
