@@ -286,8 +286,36 @@ Experts build libraries of known arrays, functions and patterns rather than redi
 
 NPCs and players use identical Fūinjutsu rules. Villages, clans and specialists can maintain proprietary seal libraries, teaching traditions and institutional infrastructure, making access to knowledge as important as raw capability.
 
+## Provisional — 3.16 Summoning techniques and contracts
+
+Summoning is a space-time technique family that transports an existing being, creature, object or contracted entity rather than creating one from nothing. Intelligent summons are independent characters with their own motives, memories, abilities, injuries and relationships.
+
+Summoning access normally requires a valid contract, known summoning formula, sufficient chakra, compatibility with the contract and permission under the contract's rules. A contract can belong to a species, faction, clan, individual, location or specialized service. Signing a contract does not guarantee access to every summon connected to it.
+
+Summoning cost depends on the target's size, chakra, resistance, distance/space-time difficulty, contract terms and technique. Large or powerful summons usually require greater chakra and Output. Insufficient chakra can produce a smaller/less demanding summon, failed transport, instability or other technique-specific consequences.
+
+A summon is not automatically obedient. Cooperation depends on contract terms, hierarchy, relationship, personality, incentives and circumstance. Summoners can request or command only what the contract and relationship legitimately support. Intelligent summons may refuse, negotiate, withdraw or act independently.
+
+Summons retain their own chakra pools and do not normally draw directly from the summoner after arrival unless the technique specifies an ongoing tether or maintenance cost. Their jutsu, injuries, equipment and resources remain their own. Summoning does not duplicate or reset them.
+
+Summoning duration can be voluntary, conditional, fixed, sustained or effectively open-ended according to the contract and technique. Dismissal returns the summon through the relevant space-time mechanism; injury does not automatically vanish on return. A summon killed while present is genuinely dead unless its species/technique explicitly works otherwise.
+
+Reverse summoning transports the contractor to the summon side and uses the same contract/space-time logic. Summoning and reverse summoning do not imply universal teleportation to arbitrary locations.
+
+Blood is a common authentication/signature component for contracts but is not automatically required by every summoning system. Other authentication mechanisms are allowed when internally plausible.
+
+Contract relationships can develop over time. Trust, reputation, fulfilled obligations, disrespect, faction politics and prior mission outcomes can change which summons answer and how willingly they cooperate. Contracts may contain explicit obligations, restrictions, permissions or penalties.
+
+Summons may teach techniques, Sage traditions, knowledge or cultural practices if they know them and choose to teach. Contract access does not automatically transfer that knowledge.
+
+Multiple simultaneous summons are constrained by chakra, Output, contract rules, relationships, technique mastery and practical coordination rather than a universal slot limit. Intelligent summons also create social and tactical complexity rather than functioning as free disposable actions.
+
+Summoned objects and equipment follow the same conservation rules: the technique relocates or accesses an existing stored/contracted resource unless it explicitly creates a chakra construct. It does not duplicate permanent resources.
+
+NPCs and players use identical summoning rules. Summon factions persist in the world independently of whether the player interacts with them.
+
 ## Open — later sections
 
-summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
