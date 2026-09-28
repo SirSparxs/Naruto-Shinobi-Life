@@ -249,8 +249,45 @@ Sensory information can be shared only through an explicit communication mechani
 
 NPCs and players use identical sensory rules. The engine may track exact hidden values internally while presenting only the information the character's sensing actually supports.
 
+## Provisional — 3.15 Fūinjutsu, sealing and barrier techniques
+
+Fūinjutsu is one of the most knowledge-intensive and versatile chakra disciplines. Its design logic is analogous to programming: a seal formula is a structured chakra instruction system rather than decorative writing. It can define targets, conditions, triggers, permissions, stored resources, transfer rules, release conditions and failure behavior.
+
+Proposed Fūinjutsu track:
+- Basic I–V
+- Intermediate I–V
+- Advanced I–V
+- Expert I–V
+- Master I–V
+
+Fūinjutsu depends primarily on Intelligence, Chakra Control, Fūinjutsu knowledge/skill and individual formula mastery. Perception, Chakra, Output, Willpower, materials and preparation may matter by application. Large reserves cannot substitute for not understanding a formula.
+
+Seal formulas are composed from reusable functional components such as anchors, channels, storage sections, triggers, conditions, filters, bindings, permissions, transfer rules, release conditions and safeguards. Complex seals combine many components into networks. Familiar components reduce design difficulty, but integrating them still requires knowledge and testing.
+
+Design and execution are separate. A character may understand how to design a formula yet lack the Control or materials to inscribe and activate it reliably. Copying visible markings without understanding their relationships may produce an inert or unstable result.
+
+Prepared seals can convert time, materials and prior chakra investment into later speed, persistence or strength. Seals may be written, tattooed, carved, woven into objects, embedded in barriers, placed in terrain or encoded through other chakra-compatible media.
+
+Seal complexity reflects logical complexity rather than physical size or symbol count. A small formula can be extremely sophisticated; a large array can be conceptually simple. Formula quality depends on correctness, stability, efficiency, compatibility and how well its conditions are defined.
+
+Fūinjutsu can support storage, containment, suppression, restriction, chakra transfer, triggering, marking, communication, detection, barriers, contracts, protection and release control when the mechanism is explicitly defined. It is versatile but not unlimited: a seal cannot perform an effect for which the designer lacks a coherent chakra mechanism.
+
+Seals may store chakra, objects, information, techniques or other permitted contents only when the formula supports that kind of storage. Capacity, compatibility and retrieval rules must be explicit; sealing does not create resources from nothing.
+
+Living targets are harder to seal than inert objects because their chakra, movement, resistance and biology can interfere. Powerful entities require sufficient containment structure, anchors, chakra capacity, compatibility and often multiple layers.
+
+Barrier ninjutsu uses related logic where formulas define boundaries, detection, permissions, filtering, reinforcement and responses. Barriers may be static or mobile, active or stored, simple walls or complex rule-driven fields. Prepared arrays and teams can achieve effects beyond a single improvised caster.
+
+Completed independent seals persist according to their stored rules rather than the creator's ongoing consciousness unless explicitly tethered. User death does not automatically deactivate an independent completed formula.
+
+Seal failures can arise from design mistakes, inscription mistakes, poor chakra input, damaged anchors or target incompatibility. Results may be inert, partial, unstable, destructive or otherwise technique-specific.
+
+Experts build libraries of known arrays, functions and patterns rather than rediscovering everything. Original Fūinjutsu is allowed and can become extraordinarily sophisticated, but novelty requires design work, testing and refinement.
+
+NPCs and players use identical Fūinjutsu rules. Villages, clans and specialists can maintain proprietary seal libraries, teaching traditions and institutional infrastructure, making access to knowledge as important as raw capability.
+
 ## Open — later sections
 
-sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
