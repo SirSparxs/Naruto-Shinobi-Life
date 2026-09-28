@@ -183,8 +183,41 @@ A genjutsu normally alters perceived experience rather than directly creating ph
 
 NPCs and players follow identical rules. Genjutsu knowledge creates tactical value: experienced shinobi can test reality, communicate counters, coordinate Kai, deliberately avoid delivery vectors and exploit uncertainty without becoming universally immune.
 
+## Provisional — 3.13 Medical ninjutsu framework
+
+Medical Ninjutsu is a specialized discipline combining chakra manipulation with real medical knowledge. Chakra Control alone never grants diagnostic or treatment competence. The core supporting capabilities are Medical Ninjutsu skill, Chakra Control, relevant medical knowledge, technique mastery, and situationally Perception, Intelligence, Willpower and sustained Output.
+
+Proposed Medical Ninjutsu track:
+- Basic I–V
+- Intermediate I–V
+- Advanced I–V
+- Expert I–V
+- Master I–V
+
+The discipline covers diagnosis, stabilization, controlled tissue repair, hemostasis, toxin/poison treatment, chakra-pathway treatment, surgery support, regenerative techniques and other medically grounded chakra applications. Exact injury severity and recovery belong to the Health/Injury ruleset; Ruleset 3 defines what medical chakra techniques can attempt and what resources/precision they require.
+
+Diagnosis is separate from healing. A medic must identify the problem before choosing the correct intervention; treating the wrong structure can waste chakra or worsen the condition. Sensory/diagnostic techniques may improve information but do not replace medical knowledge.
+
+Healing does not create matter or erase consequences by default. Medical techniques can accelerate or support natural repair, reconnect or stabilize damaged tissue, control bleeding, reduce shock, restore function, or enable advanced regeneration when the specific technique supports it. Missing tissue, catastrophic organ destruction, severed limbs and death require extraordinary explicit abilities rather than ordinary healing.
+
+Treatment difficulty depends on injury type, severity, time since injury, contamination, patient stability, available knowledge/tools, chakra requirements and technique complexity. Larger injuries are not simply larger HP bars; different tissue and trauma types demand different interventions.
+
+Medical chakra usually prioritizes precision and sustained control over burst Output. Advanced treatment may still require high sustained Output, large reserves, multiple processes, or teams. Interrupting delicate procedures can cause failure or patient harm according to the technique.
+
+Poison and disease treatment require identification plus appropriate medical/toxicological knowledge. Generic healing chakra does not automatically neutralize unknown toxins, pathogens or drugs. Techniques may suppress symptoms, slow progression, extract substances, repair damage or directly neutralize specific agents when designed to do so.
+
+Medical procedures can combine ordinary medicine, surgery, drugs, tools, seals and chakra. Chakra is an additional medical capability, not a replacement for all non-chakra medicine. Prepared facilities, equipment and multiple specialists can reduce difficulty and improve safety.
+
+Self-treatment is possible when anatomy, access, concentration and technique permit it, but severe pain, unconsciousness, inaccessible wounds or required two-handed procedures can make it difficult or impossible. Treating oneself is not automatically easier than treating another person.
+
+Regeneration is distinct from normal healing. Regenerative techniques that replace major tissue, rapidly reconstruct organs, reverse otherwise permanent damage or operate automatically require explicit special mechanics, extreme chakra/resource costs, stored power, biological traits or other justified prerequisites.
+
+Medical failure can mean no effect, incomplete stabilization, wasted chakra, delayed healing, tissue damage, misdiagnosis, worsened bleeding, toxin spread or other technique-specific consequences. Better mastery reduces preventable risk but cannot make impossible treatment possible.
+
+NPCs and players use identical medical rules. Competent medics should prioritize triage, stabilization and resource management rather than automatically spending the most chakra on the most visibly injured person.
+
 ## Open — later sections
 
-medical ninjutsu; sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
