@@ -314,8 +314,30 @@ Summoned objects and equipment follow the same conservation rules: the technique
 
 NPCs and players use identical summoning rules. Summon factions persist in the world independently of whether the player interacts with them.
 
+## Provisional — 3.17 Chakra flow, reinforcement and chakra-enhanced combat
+
+Chakra Flow is treated primarily as an application family rather than another universal Skill. General Chakra Control governs directing chakra through the body or an object; the relevant combat/weapon Skill and individual technique mastery determine how effectively that flow is applied.
+
+Core applications include body reinforcement, burst reinforcement, chakra-enhanced strikes, defensive reinforcement, weapon coating, chakra edges, elemental weapon flow and specialized chakra armor. These are mechanically distinct even when they all involve "putting chakra into" something.
+
+Ordinary reinforcement supplements physical ability rather than replacing it. Strength, Agility, Endurance, weapon quality and fighting skill remain relevant. A physically weak shinobi with good Control does not automatically become superhuman. Extreme chakra-enhanced strength requires a learned technique or specialized method that converts tightly timed chakra release into force.
+
+Reinforcement has location, intensity, timing and duration. Spreading chakra through the whole body is generally less efficient and harder to maintain than reinforcing a specific limb or impact moment. Burst enhancement can produce much greater short-term effects but demands Output, timing and Control and can injure the user if force exceeds what their body can tolerate.
+
+Defensive reinforcement can strengthen tissues, brace against impact or form chakra layers, but it does not provide generic invulnerability. The technique defines which damage types it helps against and how chakra is consumed under stress.
+
+Weapon Chakra Flow requires compatibility with the weapon/material, Chakra Control, relevant weapon skill and often Shape Transformation. A weapon can act as a physical anchor, reducing the shaping burden compared with forming a free-standing chakra blade. Poor flow can waste chakra, destabilize the weapon coating or damage unsuitable equipment.
+
+Elemental weapon flow adds Nature Transformation on top of ordinary flow. The element contributes its actual properties—such as cutting, heat, conductivity or density—rather than a universal damage bonus. Nature, Shape, Control, weapon skill and technique mastery all remain relevant.
+
+Chakra flow can be continuous, pulsed, impact-triggered or stored/prepared. Continuous flow consumes sustained chakra and concentration; timed pulses are more efficient but demand precision. High mastery can reduce waste and make familiar reinforcement increasingly automatic.
+
+Enhancement cannot safely scale without limit. The user's safe Output, body durability, weapon durability, Control and technique design create ceilings. Exceeding them can cause torn muscle, fractures, chakra-pathway damage, weapon failure or other backlash.
+
+NPCs and players use identical enhancement rules. Chakra reinforcement is common enough to support many combat styles, while exceptional feats require exceptional technique, training or physiology rather than being automatic consequences of high Chakra Control.
+
 ## Open — later sections
 
-chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
