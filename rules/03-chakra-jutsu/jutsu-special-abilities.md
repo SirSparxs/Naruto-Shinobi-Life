@@ -161,8 +161,30 @@ Unless a specific technique permits it, clones cannot recursively create unrestr
 
 NPCs and players use identical clone rules. Clone tactics should consider chakra division, information uncertainty, individual clone survival, task complexity and the risk of the creator becoming vulnerable while resources are distributed.
 
+## Provisional — 3.12 Genjutsu framework
+
+Genjutsu is a technique family for manipulating a target's perception, cognition or internal chakra-mediated sensory processing. It is not universal mind control. Every genjutsu specifies a delivery method, affected senses/functions, illusion complexity, target count, duration, maintenance model, detection clues, resistance/escape behavior, and consequences.
+
+Common delivery methods include visual, auditory, touch, chakra contact, environmental carrier, seal/trap, and dōjutsu-mediated induction. Delivery only establishes an opportunity for the effect; success is resolved through Ruleset 2 using the technique, user mastery, target defenses and circumstances.
+
+Genjutsu proficiency depends on specialized Genjutsu skill/knowledge plus Chakra Control and technique mastery. Intelligence, Perception and Willpower can matter differently for creation, detection and resistance. Chakra Control alone does not grant genjutsu expertise.
+
+Effects can range from simple sensory distortion to complex immersive illusions, paralysis-like perception traps, emotional manipulation, false information, pain simulation or behavioral interference. Direct compulsion, memory alteration and deep identity manipulation are exceptional high-tier effects requiring explicit mechanics, high prerequisites and strong counterplay.
+
+Detection and escape are separate. A target may realize something is wrong yet still be unable to break the technique immediately. Detection may come from contradictions, sensory anomalies, chakra awareness, prior knowledge, allies, dōjutsu or unusual perception. Escape may use Kai/self-disruption, outside chakra disruption, pain or sensory shock where appropriate, breaking the delivery condition, overpowering/disrupting the genjutsu, or a technique-specific counter.
+
+Kai is a learned chakra-control application, not an automatic dispel. Its effectiveness depends on recognizing or suspecting genjutsu, sufficient Control, understanding, remaining agency and the strength/structure of the effect. Allies can disrupt a target's chakra to assist when the technique permits.
+
+Resistance is not one universal Willpower save. Depending on the effect, relevant defenses may include Perception, Willpower, Chakra Control, sensory specialization, knowledge, special abilities and prior preparation. Ruleset 2 resolves contests and degree of success.
+
+Genjutsu may be instantaneous, self-sustaining or actively maintained. Complex reactive illusions usually demand more concentration than fixed sensory distortions. Multi-target genjutsu scales in cost, Output, Control and/or concentration according to the technique; affecting many targets is not free.
+
+A genjutsu normally alters perceived experience rather than directly creating physical damage. It can still cause indirect harm through behavior, stress, incapacitation or technique-specific neurological/chakra effects. Any direct physiological or lasting mental effect must be explicitly supported by the technique.
+
+NPCs and players follow identical rules. Genjutsu knowledge creates tactical value: experienced shinobi can test reality, communicate counters, coordinate Kai, deliberately avoid delivery vectors and exploit uncertainty without becoming universally immune.
+
 ## Open — later sections
 
-genjutsu; medical ninjutsu; sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+medical ninjutsu; sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
