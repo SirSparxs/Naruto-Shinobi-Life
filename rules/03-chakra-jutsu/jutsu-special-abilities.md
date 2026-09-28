@@ -137,8 +137,32 @@ Range and connection matter. Some maintained techniques are tethered to the user
 
 Maintenance and simultaneous-process rules apply equally to clones, barriers, sensory fields, chakra threads, transformations, genjutsu and other long-duration effects, with subsystem-specific exceptions defined later.
 
+## Provisional — 3.11 Clone mechanics
+
+"Clone" is a technique family, not one universal mechanic. Every clone technique specifies its physicality, creation medium, chakra allocation model, inherited capabilities, durability, autonomy, range/connection, sensory and memory behavior, dismissal/destruction behavior, and whether any chakra or information returns.
+
+Core categories include illusionary/nonphysical clones, physical chakra clones, elemental/material clones, Shadow Clone-style divided-chakra clones, and specialized clone variants. Visual similarity does not imply mechanical similarity.
+
+Clone chakra may be spent, allocated/locked, divided, independently supplied, or stored in the clone. Shadow Clone-style techniques divide the user's available chakra among bodies; creating more clones therefore makes each body operate with a smaller chakra allotment. Clone count is constrained by reserves, Output, Control, technique mastery and minimum viable allocation rather than a universal slot cap.
+
+Clone bodies inherit only what their technique explicitly reproduces. Attributes, skills, known jutsu, special abilities, equipment and transformations can be full, reduced, conditional or unavailable. A clone cannot bypass hard biological or resource requirements merely because the original possesses them.
+
+Physical clones act as independent agents within the behavioral freedom granted by the technique. They share the creator's knowledge and personality at creation unless specified otherwise, but after creation each body perceives and decides independently. Direct telepathic coordination is not assumed unless the technique grants it.
+
+Durability is technique-specific. Some clones vanish after minor disruption; others can sustain meaningful damage. Destruction, voluntary dismissal, range failure and chakra exhaustion may have different consequences. Elemental/material clones may leave hazards or effects when destroyed if defined by the technique.
+
+Information transfer is also technique-specific. Shadow Clone-style memory transfer returns the clone's experiences to the original when the clone ends successfully. Information transfer does not literally duplicate physical adaptation: memories, observations and technical practice can accelerate learning/mastery, while muscle growth, bodily conditioning, healing and other changes requiring the original body do not multiply.
+
+Clone-assisted training is therefore powerful but not a universal N-times progression multiplier. On return, the growth system evaluates transferred experiences for relevance, quality, redundancy, errors, assimilation burden and the original's foundational limits. Hundreds of clones repeating the same trivial drill rapidly hit diminishing returns. Multiple clones exploring different problems can be much more valuable.
+
+Large-scale memory return can impose mental fatigue, sensory overload, disorientation or reduced training efficiency. Chakra expenditure and clone upkeep remain real constraints. Clones do not create net chakra or infinite labor.
+
+Unless a specific technique permits it, clones cannot recursively create unrestricted clone armies, transfer returned memories through endless chains, or exploit dismissal to duplicate consumable resources. Any reproduced equipment is chakra-created or otherwise temporary unless the technique explicitly produces real material.
+
+NPCs and players use identical clone rules. Clone tactics should consider chakra division, information uncertainty, individual clone survival, task complexity and the risk of the creator becoming vulnerable while resources are distributed.
+
 ## Open — later sections
 
-clones; genjutsu; medical ninjutsu; sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+genjutsu; medical ninjutsu; sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
