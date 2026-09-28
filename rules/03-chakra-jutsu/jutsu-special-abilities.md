@@ -96,8 +96,26 @@ Signature status is separate from mastery. A signature technique reflects except
 
 At very high mastery, improvement shifts from basic execution toward optimization and personalization. Further growth may produce variants or derivative techniques rather than unlimited numerical bonuses.
 
+## Provisional — 3.9 Jutsu execution, hand seals and casting speed
+
+Jutsu execution is a sequence rather than a single generic cast action. A technique may involve chakra preparation, hand seals/physical components, nature and/or shape transformation, targeting, release and possibly maintenance. Different techniques emphasize different stages.
+
+Handsign Speed is proposed as a trainable Skill with Basic I–V, Intermediate I–V, Advanced I–V, Expert I–V and Master I–V. Agility is its primary foundation; Perception, Intelligence, Chakra Control and individual jutsu mastery can matter depending on the task. Handsign Speed governs accurate physical seal sequencing under time pressure, not the entire activation time of a technique.
+
+Each technique specifies a standard seal sequence, seal complexity and whether seal reduction, one-handed seals or seal-less execution are mechanically possible. Mastery may reduce seals only where the technique permits; speed alone never deletes required chakra processes.
+
+Total activation time can be limited by seals, chakra gathering, Nature/Shape Transformation, Output ramp-up, physical movement, tools or preparation. A character with very fast hands may still cast a complex technique slowly if another stage is the bottleneck.
+
+Interruption is stage-sensitive. Disruption early in preparation usually wastes little chakra; disruption after major chakra investment may waste more and can cause backlash for unstable techniques. Injury, restraint, movement, occupied hands, environmental conditions and divided attention affect only the execution components they logically interfere with.
+
+One-handed seals are a distinct trained capability and/or technique-specific mastery option, not a universal automatic upgrade. Seal-less techniques either were designed without seals or have an explicitly supported internalized execution method. Missing hands do not automatically prevent all ninjutsu.
+
+Characters may begin one technique while maintaining another when both techniques and their concentration burdens permit it. Simultaneous initiation of multiple complex techniques is exceptional and resolved through the normal multi-process/control framework rather than assumed from high speed.
+
+NPCs and players use the same execution rules. Observers can potentially read seals, preparation cues and chakra buildup depending on perception, knowledge and special abilities, creating tactical counterplay.
+
 ## Open — later sections
 
-hand seals/casting speed; sustained techniques; clones; genjutsu; medical ninjutsu; sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+sustained techniques; clones; genjutsu; medical ninjutsu; sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
