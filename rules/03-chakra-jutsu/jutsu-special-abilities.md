@@ -74,8 +74,30 @@ Characters may learn variants before broad mastery when taught narrowly, but tha
 
 NPCs use the same acquisition rules. Their available teachers, institutions, clans, careers, interests, mission history and time budgets shape what they learn. Rank correlates with access and experience but does not grant techniques.
 
+## Provisional — 3.8 Individual jutsu mastery
+
+Each learned jutsu has its own persistent mastery score. A simple 0–100 track is preferred over a full multi-level Skill ladder because jutsu mastery is narrow and technique-specific; broad capability remains in foundational Skills.
+
+Proposed mastery bands:
+- 0–19 Functional
+- 20–39 Familiar
+- 40–59 Proficient
+- 60–79 Expert
+- 80–94 Mastered
+- 95–100 Exceptional Mastery
+
+Mastery improves only the aspects the technique can logically refine. A jutsu record should define its mastery benefits and milestones, which may include reliability, efficiency down to the functional floor, activation speed, hand-seal reduction, stability, precision, maintenance burden, scaling efficiency, combat use under pressure, or access to variants.
+
+Mastery does not erase hard prerequisites, minimum functional cost, Output/Control limits, intrinsic risks, or the technique's scaling profile. It does not automatically raise rank or raw power.
+
+Progress comes from meaningful practice, real use, instruction, experimentation and challenge. Trivial repetition has diminishing returns; dangerous real-world use may teach quickly but carries genuine risk. Related jutsu can transfer some familiarity without granting free mastery.
+
+Signature status is separate from mastery. A signature technique reflects exceptional familiarity, tactical integration, repeated use and often personal variants; it is not a free numerical bonus. A character may have several highly mastered techniques without all of them being signature techniques.
+
+At very high mastery, improvement shifts from basic execution toward optimization and personalization. Further growth may produce variants or derivative techniques rather than unlimited numerical bonuses.
+
 ## Open — later sections
 
-Individual jutsu mastery; hand seals/casting speed; sustained techniques; clones; genjutsu; medical ninjutsu; sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+hand seals/casting speed; sustained techniques; clones; genjutsu; medical ninjutsu; sensing; sealing/barriers; summoning; chakra flow; special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
