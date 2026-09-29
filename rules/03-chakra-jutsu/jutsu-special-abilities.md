@@ -606,8 +606,36 @@ Identifying techniques during combat relies on actual knowledge and evidence. Ch
 
 NPCs and players use identical copying rules. Observed techniques, partial models, known counters and reconstructed variants persist as character knowledge rather than being globally revealed to the player.
 
+## Provisional — 3.27 Jutsu creation, research and invention
+
+Jutsu creation is treated as a research/design process rather than an XP purchase or instant unlock. A creator defines a desired function, selects mechanisms they actually understand, designs an execution method, builds a prototype, tests it, analyzes failures and iterates until the technique becomes stable enough for functional use.
+
+Creation difficulty depends on novelty, number of interacting subsystems, required Nature/Shape transformations, Control and Output demands, supporting knowledge, environmental or material requirements, danger, desired efficiency and how far the concept lies from techniques the researcher already understands.
+
+Known techniques and principles act as reusable building blocks. Modifying an existing jutsu is generally easier than inventing an unrelated mechanism from first principles. Reverse-engineered knowledge, Hiden modules, Fūinjutsu formulae, medical theory and observed techniques can all contribute to design progress without erasing prerequisites.
+
+Research progress is persistent rather than one-roll success. Useful stages can include Concept, Theoretical Model, Prototype, Unstable Prototype, Functional Prototype, Stable Technique and Refined Technique. Failed tests can still provide progress when they reveal useful information.
+
+A prototype may differ substantially from the intended final form: excessive chakra cost, too many hand seals, slow activation, poor stability, unsafe Output, limited range or other flaws. Refinement can improve these dimensions only where the underlying design permits.
+
+Technique rank is assigned after or during stabilization based on actual complexity, danger, prerequisites and training burden; inventors do not choose an S-rank label as a power target. Rank may be revised as the technique changes.
+
+Research can produce exact new techniques, variants, derivative techniques, supporting drills, failed branches or unexpected discoveries. A modification remains a variant while its core mechanism and identity remain substantially shared; once requirements, execution, effect or tactical role materially diverge, it receives a separate jutsu record and mastery.
+
+The creator does not automatically begin with high mastery. Research familiarity can grant a head start because the inventor deeply understands the mechanism, but reliable combat use still requires practice. Designing a technique and executing it under pressure are related but different capabilities.
+
+Collaborative research is allowed. Different contributors can provide Nature expertise, Fūinjutsu, medicine, sensory analysis, testing, theory or field experience. Collaboration increases available knowledge but also requires integration and communication; contributors do not automatically learn every finished technique unless they acquire and practice it.
+
+Testing conditions matter. Controlled training reduces danger but may fail to reveal battlefield problems; live use can expose important flaws while carrying genuine consequences. Dangerous experimentation follows normal injury, Kinjutsu and ethical/legal rules.
+
+Accidental discoveries can occur when an unusual interaction produces a repeatable effect, but the character must still understand and stabilize the phenomenon before it becomes a reliable jutsu. One lucky accident is not automatic technique ownership.
+
+Original techniques follow the same balance rules as canon techniques. No effect is permitted merely because a character can describe it; the design must have a coherent chakra mechanism, required resources and appropriate counterplay.
+
+NPCs and players use identical invention rules. NPC researchers, clans and villages can independently create, refine, publish, classify, lose or standardize new techniques, allowing the world's jutsu ecosystem to evolve over generations.
+
 ## Open — later sections
 
-jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
