@@ -430,8 +430,38 @@ Original dōjutsu are allowed and use the same framework. Their visual powers mu
 
 NPCs and players use identical dōjutsu rules. Hidden stages, eye-specific abilities and unknown drawbacks remain private simulation state until legitimately discovered.
 
+## Provisional — 3.21 Hiden and clan technique framework
+
+Hiden are restricted bodies of knowledge, training methods or technique systems whose exclusivity is social/cultural rather than inherently genetic. A clan may guard a Hiden closely, but an outsider who obtains complete knowledge and satisfies the real prerequisites can potentially learn it unless the technique also depends on a separate biological or special-ability requirement.
+
+Clan membership, bloodline access and Hiden access are tracked separately. A clan may possess a Kekkei Genkai, one or more Hiden traditions, ordinary signature techniques, or any combination of these. The world may incorrectly believe a secret technique is hereditary, and clans may deliberately encourage that misconception.
+
+Hiden access can be controlled through teaching permissions, family rank, initiation, oath, scroll custody, mentor approval, village law, contractual obligation or compartmentalized knowledge. Promotion inside a clan may increase access without automatically granting proficiency.
+
+Hiden techniques use the ordinary jutsu learning pipeline: Access -> Comprehension -> Acquisition -> Functional Use -> Mastery. Secret status changes access, not the underlying learning rules. A stolen scroll, captured instructor or copied demonstration may provide incomplete access rather than an instant unlock.
+
+Many Hiden systems require long-term foundational training. Examples can include specialized chakra manipulation, body conditioning, equipment use, symbiotic organisms, poisons, insects, shadow manipulation, secret medicines or coordinated family methods. These prerequisites can make a technique practically clan-exclusive even when not genetically impossible for outsiders.
+
+A Hiden tradition may consist of a technique family rather than one jutsu. It can include foundational exercises, terminology, formulae, variants, tactical doctrine and advanced applications. Knowing one visible technique does not imply access to the full system.
+
+Knowledge can be compartmentalized. Different clan branches, ranks or specialists may know different portions of the tradition. A clan head may not personally master every technique, and a gifted junior may exceed elders in a narrow application while still lacking restricted knowledge.
+
+Outsiders can potentially learn Hiden through legitimate teaching, defection, marriage/adoption, espionage, recovered records, reverse engineering or independent rediscovery. Social consequences remain separate from mechanical capability: an outsider may successfully learn the technique and still be hunted, prosecuted or politically targeted.
+
+Reverse engineering a Hiden is possible when enough observable information exists, but hidden internal processes, secret materials, conditioning, symbiotic relationships or preparation can make it extremely difficult. A reverse-engineered version may become a variant rather than an exact copy.
+
+Hiden can evolve. Families may create personal variants, branch-family versions, simplified teaching forms or new techniques built on the same foundation. If a variant spreads outside the clan, secrecy can erode over time.
+
+Traditions can also be lost. Death of instructors, destroyed archives, political purges, secrecy, war or failed transmission can leave techniques fragmentary or extinct even if descendants survive. Rediscovery is possible through archives, observation, experimentation or surviving practitioners.
+
+Teaching quality matters. Clans with established curricula, safe exercises and generations of accumulated corrections can train members far more efficiently than an outsider who merely possesses a stolen formula. This institutional advantage is a major source of practical clan specialization.
+
+Hiden techniques do not gain automatic power bonuses for secrecy. Their strength comes from actual mechanics, refinement, specialization and institutional knowledge. Low-rank secret techniques can remain strategically valuable.
+
+NPCs and players use identical Hiden rules. Clan knowledge, teacher availability, archives, branch access, defections and losses persist as world state and can change which techniques exist or are accessible across generations.
+
 ## Open — later sections
 
-Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
