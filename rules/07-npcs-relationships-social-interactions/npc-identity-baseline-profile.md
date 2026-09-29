@@ -342,17 +342,41 @@ An NPC does not need a complete romance profile unless romance becomes relevant.
 
 ## 7.3.12 Adult Sexual Baseline
 
-For adult NPCs only, where relevant to the simulation, baseline state may include broad sexual-orientation and intimacy preferences necessary to determine compatibility and boundaries.
+For adult NPCs only, where relevant to the simulation, baseline state may include explicitly detailed sexual preferences, compatibility factors, habits, interests, boundaries, and expectations.
 
-This should remain:
-- non-graphic;
-- character-focused;
-- private unless revealed in-world;
+The simulation may track information such as:
+- sexual orientation;
+- genders the NPC may be sexually attracted to;
+- libido / typical level of sexual interest;
+- preferred relationship context for sex;
+- preferred sexual roles or dynamics;
+- specific acts or activities they enjoy, dislike, refuse, or are curious about;
+- turn-ons and turn-offs;
+- initiation preferences;
+- frequency preferences;
+- comfort with experimentation;
+- monogamy / exclusivity expectations;
+- privacy preferences;
+- sexual confidence or insecurity;
+- boundaries and hard limits;
+- contraception, pregnancy, and reproductive expectations where relevant;
+- sexually relevant compatibility with a current or potential adult partner.
+
+This information may be as explicit as necessary for the simulation when adult sexual compatibility or behavior is actually relevant. It does not need to be sanitized merely because it concerns sex.
+
+However, it remains:
+- adult-only;
+- private unless revealed through believable in-world interaction;
 - separate from current arousal;
 - separate from consent;
-- separate from romantic affection.
+- separate from romantic affection;
+- separate from attraction unless the relevant attraction state actually exists.
 
-Adult sexual preferences should not be generated or exposed unless they are actually relevant.
+A sexual preference or fantasy does not imply that the NPC wants to perform it with any particular person.
+
+Likewise, compatibility does not create attraction, and attraction does not create consent.
+
+Adult sexual preferences should still be generated only when they are relevant enough to justify persistent state rather than as mandatory trivia for every adult NPC.
 
 Current adult arousal belongs to relationship/current-state mechanics rather than baseline identity.
 
