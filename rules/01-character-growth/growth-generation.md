@@ -41,3 +41,19 @@ For less important off-screen NPCs, use periodic development commitments (neglig
 ## Open — before implementation
 
 Base Progress, Development Capacity, correlated generation distributions, decay rates and exact trait inheritance must be specified and validated. All numerical benchmark tables are [Provisional](calibration.md). Track work in [issue #1](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/1).
+
+## Provisional — integrated Ruleset 3 learning and inheritance rules
+
+Sources: Ruleset 3.7–11, 3.18–27 and 3.32–35. These specifics extend the general growth framework without finalizing its numbers.
+
+**Clone training:** record returned learning experiences only when the clone technique supports transfer. Evaluate relevance, novelty, redundancy, feedback, errors and assimilation burden within the original's development constraints. Clone muscles, healing and physical conditioning do not become the original body's adaptations. Chakra division/upkeep, mental fatigue and opportunity cost remain real. There is no clone-count multiplier on monthly growth.
+
+**Acquisition, copying and research:** Access, Comprehension, Acquisition, Functional Use and Mastery are distinct. Preserve partial learning and prototype progress. Ruleset 2 resolves meaningful uncertainties; Ruleset 1 evaluates resulting learning. A successful prototype or a perfectly observed movement does not grant broad skill or automatic high mastery. One observation can suffice when information is complete and foundations already exist; repeated viewing is not a universal requirement.
+
+**Biology versus education:** ability-specific Heritability Profiles govern expression, latency and awakening. Clan membership, Hiden access, teacher access and biological eligibility are separate. Adoption can convey educational advantages without a bloodline. Transplants, host status and learned Sage methods are not automatically heritable. Parents transmit neither trained skill ranks nor mastery without an explicit ability that actually does so.
+
+**Proficiency versus possession:** acquiring or awakening an ability changes access. Its manipulation can require its own proficiency and separate technique mastery. Passive traits need no invented progress bar. Knowledge may persist when an organ, contract, resource or safe execution capability becomes unavailable.
+
+**NPCs and generations:** arsenal generation uses actual age, career, teachers, access, interests, resources and history. Allocate finite training time; no convenient retroactive counters. Track institutions, teachers and archives so traditions can spread, branch or disappear. Better later curricula do not instantly upgrade living adults or guarantee generational power inflation.
+
+Ordinary Tier I–VII monthly rates, attribute gates and rank expectations do not automatically map onto the named 25/27-tier tracks. See [progression tracks](progression-tracks.md). Exact conversions, assimilation budgets and ability-specific inheritance remain Open.

@@ -25,3 +25,15 @@ Select a teamwork structure appropriate to the task: lead/support, weakest link,
 Extended actions preserve progress, knowledge, quality, resources, setbacks and milestones. Scope is amount of work; difficulty is technical challenge. Repeated checks alone are not a project model.
 
 Progression depends on meaningful challenge, feedback, novelty, participation and adaptation. Emit learning events to Ruleset 1 rather than awarding growth per roll. Trivial grinding, intentional failure and impossible-task farming do not generate free development.
+
+## Provisional — specific Ruleset 3 applications
+
+Use the [technique-resolution interfaces](technique-resolution.md) for stage-sensitive execution, resources, counters and persistence.
+
+Genjutsu detection and escape are separate; medical diagnosis and treatment are separate; sensing presence and identifying/interpreting it are separate; copying observations and being capable of reproduction are separate. A later action may use the first result without necessarily needing another check if its outcome is already established. Relevant skills and defenses depend on the actual method, not a universal Willpower save or an automatic Perception-to-sensing conversion.
+
+New information, revised prototypes or genuinely different practice can justify a new learning/research attempt. Repeating an unchanged failed action does not. Preserve useful partial models and research progress, with scope distinct from difficulty.
+
+For cooperative jutsu and research, each contributor supplies only their own capabilities, knowledge and resources through an actual communication/transfer mechanism. Collaboration does not grant every member the finished technique or pool their scores by addition.
+
+Public awareness, knowledge-source completeness, access permission and ability to learn are different. Rarity, secrecy, Kinjutsu classification, provenance and ninja/jutsu rank may affect access or stakes; none is a universal physical success modifier. An illicit but capable user can mechanically succeed and still face later social consequences.

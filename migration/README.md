@@ -2,7 +2,7 @@
 
 Status: Established record of this integration; Open source recovery and design completion.
 
-## Repository inspection before writes
+## Initial repository inspection — historical 2026-09-28
 
 Inspected the private repository SirSparxs/Naruto-Shinobi-Life on 2026-09-28.
 
@@ -15,25 +15,25 @@ Inspected the private repository SirSparxs/Naruto-Shinobi-Life on 2026-09-28.
 - No issues or pull requests existed at inspection.
 - Local synced sources/ contained no reference files; synced project material was not modified.
 
-## Coverage
+## Current coverage — audited 2026-09-29
 
 | Area | Integrated now | Still Open |
 |---|---|---|
 | Project principles | User brief, agency, fairness, world independence, information boundaries, canon divergence | Detailed later subsystems |
 | Ruleset 1 | Seven attributes, skills/mastery, growth/generation principles, Components A–G table reference | Executable growth and calibrated distributions |
 | Ruleset 2 | Consolidated pipeline, safeguards, information/context, 30-section map, provisional formulas | Skill-scale conversion, RNG/band conventions, validation |
-| Ruleset 3 | Explicit Control revision, non-canon permission, 3.1–3.4 working mechanics, later scope backlog | Full jutsu/special-ability design and tuning |
+| Ruleset 3 | All planned 3.1–3.35 sections; progression, mastery, execution and persistence interfaces audited | Calibration, concrete profiles, implementation and source tails |
 | Simulation/state | Persistence, RNG evidence, world/NPC/time and save contracts | Implemented engine and validated schemas |
 | Beginner guidance | Reading, issues, commits, review and spoiler boundaries | None for current documentation scope |
-| Source evidence | Available text from five conversations, exact turn/message IDs | 23 assistant messages capped at 20,000 characters |
+| Source evidence | Available text from five conversations, exact turn/message IDs | 54 assistant messages capped at 20,000 characters (36 in refreshed S3) |
 
-All conversation pages were retrieved, including four pages for Ruleset 2. This is **available-evidence integration**, not a claim of complete source export. See [source index](source-index.md), [decision register](decisions.md) and [deprecated ideas](deprecated.md).
+All conversation pages were retrieved, including four pages each for Rulesets 2 and 3. Ruleset 3 source coverage was refreshed on 2026-09-29; see the [audit report](audit-2026-09-29.md). This is **available-evidence integration**, not a claim of complete source export. See [source index](source-index.md), [decision register](decisions.md) and [deprecated ideas](deprecated.md).
 
 ## Open work in GitHub
 
 1. [Growth and generation calibration](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/1)
 2. [Resolution scales and probability boundaries](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/2)
-3. [Chakra and jutsu completion](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/3)
+3. [Completed-framework calibration](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/7) — section-completion issue #3 is closed
 4. [Persistence, schemas and RNG implementation](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/4)
 5. [Recover truncated source tails](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/5)
 

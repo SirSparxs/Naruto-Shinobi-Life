@@ -31,7 +31,7 @@ Separate hard prerequisites from difficulty. Some actions cannot be attempted wi
 
 More reserves or output may make delicate control harder. Foreign chakra, injury, stress and disruption can affect specific processes. Fine manipulation and gross reinforcement are different applications. Efficiency floors remain technique-specific.
 
-## Open — completion
+## Open — tier calibration
 
 Define all 27 tiers' unlock requirements and their relationship to the resolution scale. Tune costs and limits for simultaneous processes. Resolve learning and skill-specific gates without adding unapproved powers to upper Master tiers.
 

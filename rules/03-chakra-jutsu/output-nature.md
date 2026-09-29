@@ -32,4 +32,4 @@ Yin, Yang, Yin–Yang, combined natures, artificial access and Kekkei Tōta requ
 
 ## Open
 
-Confirm Output/Nature track granularity; set output units, safe limits and overexertion rules; calibrate affinity effects, extra-nature difficulty and elemental interactions. Recover truncated tails before declaring these sections complete. [Issue #3](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/3).
+Confirm Output/Nature track granularity; set output units, safe limits and overexertion rules; calibrate affinity effects, extra-nature difficulty and elemental interactions. Recover truncated source tails before claiming a complete source archive; conceptual section coverage does not depend on treating those missing tails as known. [Issue #3](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/3).

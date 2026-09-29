@@ -26,7 +26,7 @@ Status applies to individual sections, not everything in a folder. See [decision
 
 ## Current coverage
 
-Ruleset 1 has its framework and proposed calibration. Ruleset 2 has a consolidated resolution architecture and provisional mathematics. Ruleset 3 contains developed material through 3.4, the explicitly revised 27-tier Control track, and an open jutsu/special-ability backlog.
+Ruleset 1 has its framework and proposed calibration. Ruleset 2 has a consolidated resolution architecture and provisional mathematics. Ruleset 3 covers all planned sections 3.1–3.35, including the explicitly revised 27-tier Control track. Its learning, mastery, resource and interaction interfaces have been reconciled with Rulesets 1 and 2 in the [2026-09-29 audit](migration/audit-2026-09-29.md). Calibration and implementation remain Open; completed section coverage does not imply finalized numbers.
 
 This is a design repository, not a running game engine. No campaign, player character, timeline, random seed or hidden plot has been initialized. Some long source messages were truncated by the conversation reader; [issue #5](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/5) tracks full recovery.
 

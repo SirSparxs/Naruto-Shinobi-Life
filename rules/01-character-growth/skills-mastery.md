@@ -32,11 +32,23 @@ Proposed progress descriptors: 0–19 newly entered; 20–39 developing; 40–59
 
 Mastery affects the reliability, speed, precision and efficiency of a particular learned application. High general skill does not grant mastery of every related jutsu; high mastery of one jutsu does not confer broad expertise.
 
-## Provisional — mastery scale and retention
+## Provisional — acquisition, mastery and retention
 
-The working mastery scale is 0–100. Component E suggests 0–20 barely learned, 21–40 functional, 41–60 reliable, 61–80 highly practiced, 81–94 refined, 95–99 near-perfect, and 100 practical mastery of the known form. Evolving a technique is different from filling its current mastery bar.
+For individual jutsu, the later specific framework in Ruleset 3.7–3.8 supersedes Component E's older descriptive mastery bands. [Ruleset 3's mastery section](../03-chakra-jutsu/jutsu-special-abilities.md#provisional--38-individual-jutsu-mastery) owns those labels and boundaries; do not maintain a competing scale here.
 
-Skill decay, familiarity under pressure and exact mastery bonuses need tuning. Do not make mastery a second full 0–100 additive capability score.
+Acquisition has its own persistent learning state. Mastery applies to a functionally acquired technique; a low mastery score is rough execution, not evidence that the technique is still unknown. The draft distinction between Functional and repeatably Learned remains in 3.7; exact state-transition/initialization criteria still need implementation specification. Failed or partial acquisition is not represented by silently awarding mastery to an unusable technique.
+
+Mastery benefits are defined by each technique's Mastery Profile. They may affect cost, speed, precision, stability or concentration only where supported. No universal mastery-to-damage or mastery-to-capability conversion is introduced. Costs have functional floors, hard prerequisites remain binding, and intrinsic sacrifices or degeneration do not disappear merely at mastery 100.
+
+A minor variant may share base mastery with an unfamiliarity adjustment; a major variant may need separate mastery. A materially distinct derivative has its own record and mastery, with legitimate transfer-learning benefits rather than copied scores (3.8.30–32, 3.26–27). Copying, transplantation, teaching and invention do not transfer another user's mastery or automatically confer high personal mastery.
+
+Decay may reduce practical sharpness without automatically deleting knowledge. Injury can block execution while learned knowledge persists. Signature status reflects history and tactical integration, not a free numerical bonus.
+
+These integrations retain the Provisional status of the developed Ruleset 3 mechanics. The old Component E jutsu labels are [Deprecated](../../migration/deprecated.md).
+
+## Provisional — specialized progression tracks
+
+Use the [progression-track index](progression-tracks.md) to select the applicable framework. Named level/tier tracks, ability proficiency, acquisition progress and jutsu mastery are different records. Neither the generic seven-tier ladder nor its monthly growth multipliers automatically apply to every specialized track.
 
 ## Open — cross-system conversion
 

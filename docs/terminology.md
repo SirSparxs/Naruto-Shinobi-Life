@@ -22,3 +22,21 @@ Status: Established for conceptual distinctions; mathematical conversions remain
 | Established | Current supported design; not synonymous with tested implementation. |
 
 Sources: S1–S3 in the [source index](../migration/source-index.md).
+
+## Ruleset 3 integration terms
+
+Status: Provisional where the owning Ruleset 3 mechanics are Provisional.
+
+| Term | Distinction |
+|---|---|
+| Acquisition state | Progress toward usable execution; separate from post-acquisition mastery |
+| Ability proficiency | Optional broad manipulation of an ability; neither an attribute nor mastery of all its techniques |
+| Variant / derivative | Related execution may share familiarity; a materially distinct technique needs its own record/mastery |
+| Output skill / output limit | Learned handling / derived safe throughput; neither equals total CP cost |
+| Access / possession / expression | Permission or usable connection / having a source or trait / active manifestation |
+| Reserved or divided chakra | Allocated supply, not automatically destroyed and not available to spend twice |
+| Suppression / absorption / disruption | Restricted access or flow / capture or drain / interference with function; not interchangeable |
+| Rarity / secrecy / Kinjutsu | Distribution / controlled knowledge / restriction metadata; no universal power bonus |
+| Duration / concentration / persistence | How long an effect lasts / active attention needed / what survives release or loss of its caster |
+
+See [progression tracks](../rules/01-character-growth/progression-tracks.md) and [technique-resolution interfaces](../rules/02-resolution-probability/technique-resolution.md).

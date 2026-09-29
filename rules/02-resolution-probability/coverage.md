@@ -38,3 +38,5 @@ All 30 sections are represented below. This is a navigation map, not a claim tha
 | 2.30 Consistency & Simulation Safeguards | [Read](resolution.md) |
 
 The latest consolidation supplies the concise pipeline. Numerical choices stay Provisional even where the source calls the architecture canonical.
+
+The later Ruleset 3 interfaces are consolidated in [technique-resolution](technique-resolution.md), particularly execution stages, shared versus simultaneous outcomes, resource conservation and effect persistence.

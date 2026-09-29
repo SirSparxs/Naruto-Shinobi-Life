@@ -43,3 +43,15 @@ These are proposed reliability requirements. There is no implemented transaction
 Use compact current state plus bounded event history/checkpoints, with older events retained in archives. A checkpoint references its event boundary and rules/schema versions. Correcting a rule does not silently replay or reinterpret old campaign events.
 
 A future schema migration needs source/target versions, prerequisites, field mapping, invariants and a recoverable prior checkpoint. Game-state migration is separate from the design-import tracker in migration/.
+
+## Ruleset 3 integration — Provisional persistence details
+
+Persist resource movement at the stage where it occurs. An interrupted technique can have already consumed chakra or materials; success is not the only event that changes state. Keep pre-commit computation distinct from committed game-state facts.
+
+Represent technique instances with source/owner, lifecycle, maintenance/tether conditions, resource allocation, effect state and ending conditions. Do not delete independent seals, released matter, environmental hazards or injuries merely because the caster becomes unconscious or dies.
+
+Keep personal and external pools, clone allocations/returns and entity-owned resources separate. Summons and tailed beasts remain persistent entities. Track resource origins/conversion and actual availability so return/transfer events cannot duplicate supply.
+
+Learning events need recipient, technique/version, provenance, novelty and any clone-return/assimilation linkage. Acquired knowledge, current execution capability and personal mastery are distinct. Biological inheritance, teaching/archives and institutional transmission must remain separately traceable.
+
+See [Ruleset 2's interface](../rules/02-resolution-probability/technique-resolution.md). Atomicity, event IDs and replay remain implementation work, not guaranteed behavior of this documentation.

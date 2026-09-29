@@ -38,4 +38,4 @@ Foreign and stored chakra need origin, availability, compatibility and handling 
 
 ## Open
 
-Define reserve derivation, recovery rates, non-overlapping exhaustion thresholds, output time units, overexertion resolution and temporary-capacity loss/restoration. Never turn example pools or costs from the source into universal defaults. Work is tracked in [issue #3](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/3).
+Define reserve derivation, recovery rates, non-overlapping exhaustion thresholds, output time units, overexertion resolution and temporary-capacity loss/restoration. Never turn example pools or costs from the source into universal defaults. Work is tracked in [issue #7](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/7).

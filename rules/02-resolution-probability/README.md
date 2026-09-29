@@ -6,6 +6,7 @@ Source: **Ruleset 2 Outline** (S2). All 30 section turns and the consolidation w
 
 - [Resolution pipeline and safeguards](resolution.md)
 - [Provisional mathematics](probability.md)
+- [Ruleset 3 technique-resolution interfaces](technique-resolution.md)
 - [Information, teamwork and extended actions](information-context.md)
 - [Section coverage map](coverage.md)
 

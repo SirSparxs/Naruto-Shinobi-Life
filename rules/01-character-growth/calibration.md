@@ -2,6 +2,8 @@
 
 Status: Provisional — source tables, not approved executable parameters.
 
+> Audit scope note (2026-09-29): generic Tier I–VII prerequisite, rank-ceiling and growth tables describe that ordinary track only. Do not apply their tier numbers to named 25/27-tier tracks or optional ability proficiency. See [progression tracks](progression-tracks.md). Historical tables are retained as Provisional reference, not universal gates.
+
 These are extracted table blocks from Components A–G of S1, retained to avoid losing existing design work. Headings preserve context; headings without tables are omitted. Narrative qualifications and examples remain in the [source excerpts](../../migration/reference/character-growth.md). All ranges describe expectations, not hard age/rank caps. Review under [issue #1](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/1).
 
 ## Source turn d4f7b135-39c8-4cec-a6a9-f03859b27329

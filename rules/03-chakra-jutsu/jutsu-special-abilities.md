@@ -1,6 +1,6 @@
 # Jutsu, learning and special abilities
 
-Status: Established explicit decisions; Provisional developed mechanics; Open remaining design.
+Status: Established explicit decisions; Provisional developed mechanics. Planned sections 3.5–3.35 are present; remaining work is calibration, implementation and source-tail recovery.
 
 ## Established — creative permission and persistent learning
 
@@ -91,6 +91,8 @@ Mastery improves only the aspects the technique can logically refine. A jutsu re
 Mastery does not erase hard prerequisites, minimum functional cost, Output/Control limits, intrinsic risks, or the technique's scaling profile. It does not automatically raise rank or raw power.
 
 Progress comes from meaningful practice, real use, instruction, experimentation and challenge. Trivial repetition has diminishing returns; dangerous real-world use may teach quickly but carries genuine risk. Related jutsu can transfer some familiarity without granting free mastery.
+
+Minor variants may share base mastery with an unfamiliarity adjustment; larger variants may need their own mastery record. Materially distinct derivative techniques have independent mastery with legitimate learning transfer, not duplicated scores. This restores the distinction in source 3.8.30–32. Exact transfer amounts remain Provisional/Open.
 
 Signature status is separate from mastery. A signature technique reflects exceptional familiarity, tactical integration, repeated use and often personal variants; it is not a free numerical bonus. A character may have several highly mastered techniques without all of them being signature techniques.
 
@@ -341,6 +343,8 @@ NPCs and players use identical enhancement rules. Chakra reinforcement is common
 Special abilities use one shared data model regardless of source. A Kekkei Genkai, dōjutsu, transformation, implanted organ, jinchūriki trait, Sage ability, curse mark, unique physiology or original power may differ in mechanism, but each must explicitly define access, activation, effects, resource use, progression, drawbacks, compatibility and which ordinary rules it modifies.
 
 Special abilities are categorized by Source rather than by assumed power: genetic/inherited, physiological, implanted/transplanted, sealed/bound, external entity, learned exceptional art, transformation/state, environmental/natural-energy, artificial/experimental, or unique anomaly. Source affects inheritance, compatibility, acquisition and loss.
+
+Where broad active manipulation needs a shared progression record, 3.18 proposes optional 0–100 Ability Proficiency, separate from mastery of individual techniques. Passive traits do not require an artificial proficiency track. No universal proficiency-to-resolution bonus is defined.
 
 Every ability distinguishes Capacity from Proficiency. Possessing an ability does not imply skilled use. Capacity determines what the character can potentially access; proficiency/mastery determines control, efficiency, reliability, breadth and advanced applications.
 
@@ -892,8 +896,10 @@ Future refinement can change numbers, thresholds and implementation details with
 
 NPCs and players use identical integrity rules. Ruleset 3 therefore provides one extensible chakra/jutsu framework capable of supporting canon techniques, original abilities, research, generational evolution and emergent interactions without relying on protagonist privilege or ad hoc rulings.
 
-## Open — later sections
+## Completion and remaining work
 
-None — planned Ruleset 3 sections complete.
+All planned sections through 3.35 are present. Section coverage is complete; this does not promote every Provisional detail to Established or imply a running engine.
 
-Track completion in issue #3.
+[Issue #3](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/3) is closed for the completed design pass. [Issue #7](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/7) tracks calibration and concrete execution contracts. [Issue #5](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/5) tracks unreadable source tails.
+
+See [coverage and provenance](coverage.md), [progression tracks](../01-character-growth/progression-tracks.md), and [resolution interfaces](../02-resolution-probability/technique-resolution.md).

@@ -12,7 +12,7 @@ When no meaningful secondary attribute exists:
 
 `Base Capability = 0.60 × Skill + 0.40 × Primary Attribute`
 
-Then apply relevant mastery and situational effects. Structural conditions stay structural. The conversion from tiered skill records to the formula's Skill input is **Open**; do not substitute within-tier progress.
+Then apply only relevant technique-profile mastery effects and situational effects. Mastery may change cost, timing, concentration or available execution rather than adding a generic numeric bonus; count the resulting advantage once. A high mastery value is not an additional full score. Structural conditions stay structural. The conversion from tiered skill records to the formula's Skill input is **Open**; do not substitute within-tier progress. This includes the 25/27-tier tracks and optional ability proficiency in [the progression index](../01-character-growth/progression-tracks.md). Where an action needs several disciplines, prerequisite checks and the role of each skill/bottleneck must be defined; do not silently add or average all available skills.
 
 Working modifiers: ±2 minor, ±5 noticeable, ±10 significant, ±15 major, ±20 extreme. Larger effects may warrant a structural change. These are not automatic bonuses for naming more advantages.
 
@@ -44,7 +44,7 @@ The source proposes one hidden draw R on a 0–100 scale, success when R ≤ P, 
 
 `Outcome Margin = P_percent − R`
 
-Use the same draw for degree rather than an independent critical roll. The recorded draft bands are:
+Use the same draw for degree rather than an independent critical roll. One draw applies to one meaningful uncertain objective; it does not force unrelated simultaneous effects into a winner/loser contest. Stage checks are justified only by distinct consequential uncertainty, not by every listed execution component. The recorded draft bands are:
 
 | Outcome margin in source | Draft degree |
 |---|---|

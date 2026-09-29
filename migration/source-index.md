@@ -1,6 +1,6 @@
 # Source index
 
-Status: Established migration inventory, captured 2026-09-28.
+Status: Established migration inventory, initially captured 2026-09-28; S3 refreshed 2026-09-29.
 
 All available pages of the five listed conversations were retrieved. The reader limits each message to 20,000 characters; a capped message is incomplete even if its conversation has no more pages. Reference snapshots are discussion evidence, not canonical rules. Missing tails remain Open in [issue #5](https://github.com/SirSparxs/Naruto-Shinobi-Life/issues/5).
 
@@ -82,7 +82,7 @@ Conversation: [Ruleset 2 Outline](https://chatgpt.com/c/6ab9ae71-b620-83ea-a3dd-
 
 Conversation: [Outline Chakra Ruleset](https://chatgpt.com/c/6ab9d0c1-b4c8-83e9-8340-daba438715dd).
 
-[Available reference text](reference/chakra-jutsu.md).
+[Available reference text](reference/chakra-jutsu.md). Refreshed 2026-09-29: all four pages, 38 turns, including developed 3.1–3.35. The repository's maintained 3.5–3.35 summaries were also read at audit baseline commit 9fa89d4d9b93c024bef0f93abc184b6505aa1f5a. Those summaries are not substitutes for missing original message tails.
 
 | Turn ID | Assistant message ID | Topic | Capture |
 |---|---|---|---|
@@ -97,6 +97,37 @@ I’d frame it like this: | Available message within reader limit |
 Because Chakra Control is such a foundational skill, it sh | Available message within reader limit |
 | 8a5a5322-b5d5-485e-ab34-a9043dd65b96 | 89fb64e1-5688-47dc-b0b8-44ffc05a1a87 | Ruleset 3.3 — Chakra Output | **TRUNCATED at 20,000 characters** |
 | d94d1687-81ee-4bae-8614-6bec5f5fb093 | 1097b0ab-f91c-4c27-bc31-c8e5de349350 | Ruleset 3.4 — Chakra Nature & Affinity | **TRUNCATED at 20,000 characters** |
+| 82748767-9308-4d88-81f0-487172380236 | f78196b8-c23c-4e15-88ec-e1b7bf2d2e83 | Ruleset 3.5 — Shape Transformation | **TRUNCATED at 20,000 characters** |
+| 413963d9-91ad-434a-99b3-334df26bc005 | 2215c5b6-2760-41f8-8c4c-24f3d21bd331 | Ruleset 3.6 — Jutsu Classification & Data Model | **TRUNCATED at 20,000 characters** |
+| 5c8f42f3-b4f0-4a58-9195-47aa75442a77 | c15eb1ff-e7cd-429b-a657-4eef6e9289ed | Ruleset 3.7 — Jutsu Learning & Acquisition | **TRUNCATED at 20,000 characters** |
+| fc90076a-83af-40f5-b0b8-783c2f3365e6 | a07f9bd6-798f-441a-b58d-fa7507aa3b9f | Ruleset 3.8 — Individual Jutsu Mastery | **TRUNCATED at 20,000 characters** |
+| c89808c3-ad84-4d0c-88d7-e225dc6bbb29 | 63fa2271-d0fb-4822-a7a1-4e1f5775793e | Ruleset 3.9 — Jutsu Execution, Hand Seals & Casting Speed | **TRUNCATED at 20,000 characters** |
+| a07d54c1-b06a-4428-b725-91255237f247 | 80fd157b-9ee3-40b3-879a-96e3e5afd229 | Ruleset 3.10 — Sustained Techniques, Concentration & Multiple Chakra Processes | **TRUNCATED at 20,000 characters** |
+| a7d8b4d2-6722-45f6-8b66-013a85b9593a | a9ee1272-18f2-4e5f-a53a-49f6df89f261 | Ruleset 3.11 — Clone Mechanics | **TRUNCATED at 20,000 characters** |
+| b3a63c75-0e8a-4423-9e75-0dd8f1cd7744 | 317c62e9-339d-4cd6-a208-9126b4cf6589 | Ruleset 3.12 — Genjutsu Framework | **TRUNCATED at 20,000 characters** |
+| cac84812-f77e-4a53-b1c4-39ffe1a7da15 | adabb0df-09bf-4e84-a980-1e183e3177a7 | Ruleset 3.13 — Medical Ninjutsu Framework | **TRUNCATED at 20,000 characters** |
+| 6cca1db7-dcc1-42a5-9d4b-860beaf8c75a | 704ada27-b5a2-44f5-9c33-89c81936ac46 | Ruleset 3.14 — Sensory Ninjutsu & Chakra Detection | **TRUNCATED at 20,000 characters** |
+| 0ebba5ed-c6b5-46e8-bbd8-a4f65824ad95 | 7502d010-9e92-426a-9a85-effbc77ce0d4 | Ruleset 3.15 — Fūinjutsu, Sealing & Barrier Techniques | **TRUNCATED at 20,000 characters** |
+| a139bc78-21c2-44ea-b332-437dee7a4ba2 | b69cd807-5a58-49d8-a55c-75dc114b8a98 | Ruleset 3.16 — Summoning Techniques & Contracts | **TRUNCATED at 20,000 characters** |
+| 87cc92c4-6269-4f2a-a17a-8bff8983b61e | 86e76db5-5385-46ca-af77-ed782924d984 | Ruleset 3.17 — Chakra Flow, Reinforcement & Chakra-Enhanced Combat | **TRUNCATED at 20,000 characters** |
+| 01680fb3-2215-45a7-bdda-52d173f9e207 | 3d9af03a-e819-440a-8a47-f00db6aa4e38 | Ruleset 3.18 — Universal Special Ability Framework | **TRUNCATED at 20,000 characters** |
+| 4aebcb4d-5201-4d7b-acfe-8db068699f60 | ab8f5091-0c3e-4df1-a36f-34d77b2b9fa8 | Ruleset 3.19 — Kekkei Genkai & Hereditary Abilities | **TRUNCATED at 20,000 characters** |
+| c04ade51-a65e-4e86-b5e7-f55bb19116e0 | 8f87bb5f-6e1e-4635-8feb-38b16176bafb | Ruleset 3.20 — Dōjutsu Framework | **TRUNCATED at 20,000 characters** |
+| f15d4108-7cf7-4c06-a169-6542f38c3f80 | ba615baf-ccbe-456a-be39-12c6672239ee | Ruleset 3.21 — Hiden & Clan Technique Framework | **TRUNCATED at 20,000 characters** |
+| 605b39de-8c03-49fc-8a9c-a4d6ec34dacb | 6684dec6-a70a-41ba-b9ea-a9c9c1a6e464 | Ruleset 3.22 — Transformations & Power States | **TRUNCATED at 20,000 characters** |
+| 54f452d3-b87b-417d-9d06-750432a475d6 | 3f3262b8-7cb7-4a1d-978f-0d79c9034a17 | Ruleset 3.23 — Tailed Beasts & Jinchūriki Framework | **TRUNCATED at 20,000 characters** |
+| d5c86bf8-3198-41a8-a553-6d3915134e97 | 96f25e7b-e241-42ca-ade1-71dc209a7fd8 | Ruleset 3.24 — Sage Chakra, Natural Energy & Sage Mode | **TRUNCATED at 20,000 characters** |
+| b09c7ff9-860d-4c94-9b62-a1ba424ad65a | 014f91e8-e12a-4d16-92d8-a3f89f3300c6 | Ruleset 3.25 — Kinjutsu & Forbidden Techniques | **TRUNCATED at 20,000 characters** |
+| 217225ab-d75a-40e5-b839-0156877af2b1 | d026f05e-a919-4d7d-8880-be73a369db12 | Ruleset 3.26 — Jutsu Copying, Observation & Reverse Engineering | **TRUNCATED at 20,000 characters** |
+| 57bad6fd-9a63-4fc2-b6b5-89481bb25906 | 029d3346-e1f0-4975-832a-95ec60f49c37 | Ruleset 3.27 — Jutsu Creation, Research & Invention | **TRUNCATED at 20,000 characters** |
+| d6449389-5316-4bfa-9495-242505d7bbe5 | b6af8a29-819d-4aea-a7c0-c629bd47d8e3 | Ruleset 3.28 — Jutsu Counters, Interactions & Technique Clashes | **TRUNCATED at 20,000 characters** |
+| fe2d0ed4-3299-4716-bc4c-08af2653b1c4 | 68deec27-afea-4f8a-b6d8-491f774a5884 | Ruleset 3.29 — Environmental Chakra & Battlefield Interaction Systems | **TRUNCATED at 20,000 characters** |
+| cb2aff1a-779c-40ca-92f9-675cbec89b70 | 1ad5e5ad-910e-4e91-b1ef-b220ea871293 | Ruleset 3.30 — Chakra Disruption, Absorption & Resource Interference | **TRUNCATED at 20,000 characters** |
+| 239a8348-55e6-4e6f-b4d4-4f241d235bbd | 26dbdc70-da05-4287-8035-7330b3fbbea9 | Ruleset 3.31 — Non-Chakra Resources, Tools, Consumables & Material Requirements | **TRUNCATED at 20,000 characters** |
+| b6061771-3ee3-4712-af54-284430ed007b | 0757c37d-28aa-49e2-b6df-c14978da0f28 | Ruleset 3.32 — NPC Jutsu Selection, Training & Off-Screen Usage | **TRUNCATED at 20,000 characters** |
+| b6c49dcb-249a-40a2-9ba7-a380eecb2798 | 3644be1b-41da-42e3-a84b-a4d39c5bf4d1 | Ruleset 3.33 — Jutsu Knowledge, Rarity & World Distribution | **TRUNCATED at 20,000 characters** |
+| 4d6e6730-9f47-4a7f-800c-1337815641d2 | 445c78ae-d901-411b-87dd-6bf6ec3ab6e2 | Ruleset 3.34 — Generational Transmission & Long-Term Jutsu Evolution | **TRUNCATED at 20,000 characters** |
+| 04984157-8da8-4d08-8545-23c34eb564c8 | 43c54fd2-cd43-433e-939c-3148f2ec641f | Ruleset 3.35 — Balance Safeguards & System Integrity | **TRUNCATED at 20,000 characters** |
 
 ## S4 — GitHub Integration Guide
 

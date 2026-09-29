@@ -16,9 +16,14 @@ Status: Established migration record. Individual design status is explicit below
 | D010 | Control levels Basic/Intermediate/Advanced/Expert I–V; Master I–VII | Established | S3 user turn 0ec3d8cd-9747-40f3-9f52-1241ed2748c7 and revised reply | [Control](../rules/03-chakra-jutsu/chakra-control.md) |
 | D011 | Output and Nature each use 25 tiers | Provisional | S3 assistant proposals 3.3/3.4 | [Output/Nature](../rules/03-chakra-jutsu/output-nature.md) |
 | D012 | Reserve, recovery, exhaustion and output details | Provisional | S3 3.1–3.4; numerical examples and truncated tails | [Fundamentals](../rules/03-chakra-jutsu/fundamentals.md) |
-| D013 | Remaining outline means finished jutsu/ability rules | Deprecated interpretation | S3 explicitly begins with outline before development | [Scope](../rules/03-chakra-jutsu/jutsu-special-abilities.md) |
+| D013 | An outline by itself establishes finished mechanics | Deprecated interpretation | Initial S3 outline is historical; subsequently developed 3.1–3.35 now exist | [Coverage](../rules/03-chakra-jutsu/coverage.md) |
 | D014 | GitHub persistence, including hidden game information | Established | S0 user turn c1bc9710-e8c5-4988-9001-81f5af50e552; current integration request | [Simulation](../simulation/README.md) |
 | D015 | Concrete save/RNG/schema contracts | Provisional | S0 architecture proposals plus migration implementation design | [State contract](../simulation/state-contract.md) |
-| D016 | Complete source-message recovery | Open | 23 capped assistant messages | [Source index](source-index.md) |
+| D016 | Complete source-message recovery | Open | 54 capped assistant messages after S3 refresh | [Source index](source-index.md) | 
+| D017 | Planned Ruleset 3 section coverage 3.1–3.35 complete | Established coverage fact | User's 2026-09-29 completion statement and inspected repository | [Audit](audit-2026-09-29.md) |
+| D018 | Fūinjutsu should feel like versatile programming | Established design direction | S3 user turn 0ebba5ed-c6b5-46e8-bbd8-a4f65824ad95 | [3.15](../rules/03-chakra-jutsu/jutsu-special-abilities.md#provisional--315-fūinjutsu-sealing-and-barrier-techniques) |
+| D019 | Later jutsu acquisition/mastery framework supersedes old Component E labels | Provisional mechanics; Established supersession record | S3 3.7–3.8, especially 3.8.1–2 | [Mastery](../rules/01-character-growth/skills-mastery.md) |
+| D020 | Specialized tracks, clone assimilation and inherited access need explicit growth interfaces | Provisional mechanics | S3 3.5–35; integration uses existing mechanisms, no new multipliers | [Growth](../rules/01-character-growth/growth-generation.md) |
+| D021 | Shared contests do not exclude simultaneous outcomes; costs and effects are stage/lifecycle specific | Provisional specific integration | S3 3.9–10, 3.28–35 | [Resolution interface](../rules/02-resolution-probability/technique-resolution.md) |
 
 Read exact source message IDs in the source index. Established marks the supported conceptual decision, not all illustrative details in its surrounding assistant reply.

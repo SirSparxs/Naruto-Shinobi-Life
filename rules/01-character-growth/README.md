@@ -6,6 +6,7 @@ This ruleset answers what a character can fundamentally do, what they have learn
 
 - [Attributes and derived values](attributes.md)
 - [Skills and individual mastery](skills-mastery.md)
+- [Specialized progression tracks](progression-tracks.md)
 - [Growth, potential and generation](growth-generation.md)
 - [Provisional calibration tables](calibration.md)
 

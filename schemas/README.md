@@ -17,3 +17,15 @@ Requirements to preserve:
 - Provenance/status for authored design records.
 
 A schema must not freeze an Open mechanic by inventing a default. Examples should live separately from real saves and be clearly labeled when introduced.
+
+## Ruleset 3 audit additions — Provisional contract requirements
+
+- Separate acquisition state, within-tier progress, optional ability proficiency and technique/version-specific mastery. Use the [track index](../rules/01-character-growth/progression-tracks.md); no generic tier-to-capability default.
+- Preserve variant/base relationships and explicit shared versus independent mastery; transfer-learning benefits are not copied mastery scores.
+- Model personal, stored, beast, external and Senjutsu resources separately, with access, allocation, ownership, source, conversion and throughput. Suppressed supply is not necessarily depleted supply.
+- Distinguish an ability's source/capacity, expression/access, proficiency, active form and persistent biological changes. Heritability and teaching lineage are separate records.
+- Model stage-sensitive resource investment, interruption, maintained/tethered/autonomous effects and ending conditions; material and environmental consequences can outlive their caster.
+- Link clone experiences to their recipient/assimilation event to avoid counting the same returned experience repeatedly; physical adaptations stay with the body that underwent them.
+- Keep knowledge carriers, source completeness, local access, restrictions and confidence distinct from engine truth and learned capability.
+
+These are schema requirements to implement under #4, not a claim that runnable validators now exist.
