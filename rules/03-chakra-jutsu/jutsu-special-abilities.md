@@ -786,8 +786,42 @@ Abstraction cannot retroactively optimize an NPC for the current scene. When a b
 
 NPCs and players therefore share one mechanical reality while differing only in simulation granularity. Detail increases when choices and consequences matter; abstraction compresses uneventful periods without changing the rules underneath.
 
+## Provisional — 3.33 Jutsu knowledge, rarity and world distribution
+
+Technique rarity is multidimensional. The simulation distinguishes technical difficulty, public awareness, number of complete knowledge sources, number of active practitioners, geographic spread, institutional access and legal/social restriction. A difficult technique can be widely documented, while a simple technique can be extremely rare because its knowledge survives in only one isolated lineage.
+
+Rarity labels such as Common, Uncommon, Rare, Very Rare, Lost or Unique are descriptive summaries rather than power tiers. They should be grounded in current world state and can differ by region or organization. A technique common in one village may be virtually unknown elsewhere.
+
+Public awareness is separate from usable knowledge. Characters may know that a famous technique exists, recognize its appearance or know historical users without possessing the internal instructions required to learn it. Hearing a technique's name never grants Access under the learning pipeline.
+
+Knowledge sources are tracked as concrete carriers: living practitioners, instructors, scrolls, archives, clan traditions, research notes, copied observations, institutional curricula or surviving fragments. A technique remains learnable only where enough information and prerequisites survive.
+
+Knowledge quality varies. Sources can be complete, partial, damaged, encoded, outdated, misleading or incorrect. Multiple incomplete sources can sometimes be combined through analysis/research into a usable model.
+
+"Secret" describes controlled distribution rather than numerical scarcity. A Hiden may have hundreds of practitioners inside one clan while remaining secret externally. Conversely, a non-secret technique may be rare simply because very few people care to learn or teach it.
+
+"Lost" means no currently known complete accessible source/practitioner remains, not that the technique is metaphysically impossible to recover. Fragments, ruins, descendants, observations or independent reinvention can restore lost knowledge.
+
+"Unique" means only one known functional implementation or practitioner currently exists, not that duplication is universally impossible. True non-transferability requires an actual mechanism such as unique biology, one-of-a-kind resource or personal special ability.
+
+Geographic distribution matters. Techniques spread through teachers, students, migration, war, alliances, captured archives, defectors, trade, standardized curricula, espionage, copying and independent invention. Travel and communication therefore reshape the world's jutsu map over time.
+
+Institutions maintain knowledge ecosystems. Villages, clans, temples, summon societies, research labs and schools can preserve, teach, classify and standardize techniques. Destruction of instructors or archives can reduce future availability even when surviving veterans still know the technique.
+
+Standardization can transform a formerly rare technique into common doctrine if prerequisites, teaching methods and institutional incentives allow it. The reverse can also occur when a curriculum is abandoned, practitioners die or political restrictions tighten.
+
+Technique distribution is constrained by actual prerequisites. A widely published dōjutsu technique may remain practically rare because only users with the required eyes can perform it. Knowledge abundance does not imply practitioner abundance.
+
+Characters have local access rather than global catalog access. A technique existing somewhere in the world does not mean the player or NPC can locate an instructor, scroll or archive without legitimate information, travel, relationships, authorization or investigation.
+
+Intelligence about knowledge sources can itself be uncertain. Rumors may falsely claim a scroll survives, a clan may conceal practitioners, or an archive may contain only fragments. Hidden world state records the truth separately from what characters believe.
+
+Knowledge can be duplicated without removing it from the original source, but physical records and unique instructors remain vulnerable. Theft can spread knowledge while destruction can eliminate a source. Information security therefore concerns containment of copies, not conservation of knowledge as a physical resource.
+
+NPCs and players follow identical distribution rules. The world tracks who knows, teaches, stores and can access important techniques, allowing knowledge to spread, fragment, disappear and re-emerge naturally over time.
+
 ## Open — later sections
 
-knowledge/rarity; generational transmission; balance safeguards.
+generational transmission; balance safeguards.
 
 Track completion in issue #3.
