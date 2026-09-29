@@ -580,8 +580,34 @@ Forbidden techniques can be copied, reverse engineered, modified, rediscovered, 
 
 NPCs and players use identical Kinjutsu rules. The simulation tracks who knows a forbidden technique, how they acquired it, the reasons it is restricted, relevant jurisdictions and the actual mechanical risks independently of whether the player has discovered those facts.
 
+## Provisional — 3.26 Jutsu copying, observation and reverse engineering
+
+Observation, understanding and reproduction are separate stages. Seeing a jutsu can provide information about visible components such as hand seals, movement, timing, chakra buildup, nature, shape or effects, but does not automatically reveal hidden internal processes or grant execution.
+
+Copying uses the normal learning pipeline with an alternate access source. A copied technique still requires all real prerequisites: Nature Transformation, Shape, Chakra Control, Output, anatomy, bloodline, tools, contracts, materials, knowledge and special abilities. Observation can shorten Access/Comprehension without bypassing capability requirements.
+
+Information quality depends on observer Perception, relevant knowledge, sensory/dōjutsu abilities, viewing angle, distance, speed, concealment, number of observations and how much of the technique is externally visible. Hidden or internal stages may remain unknown even after perfect visual observation.
+
+Copying dōjutsu can greatly improve capture of seals, timing, movement and visible chakra flow. They do not transfer the original user's Attributes, Skills, biology, mastery or experience. A technique may therefore be perfectly recorded yet still unusable by the observer.
+
+Technique recognition and technique copying are distinct. A character can identify a familiar jutsu without being able to reproduce it, and can sometimes reproduce an observed technique before knowing its official name or origin.
+
+Reverse engineering begins from incomplete evidence and reconstructs the underlying mechanism through analysis, experimentation and testing. The result may be an exact recreation, a partial reconstruction, a functionally similar variant or a failed hypothesis. Greater difference between observed effect and hidden mechanism increases research difficulty.
+
+Partial information can create partial learning progress rather than binary success. Multiple observations, captured notes, teacher explanations, sensory analysis, dissected formulae or battlefield experience can accumulate into a more complete model.
+
+Physical techniques and movement can be observed precisely yet remain unusable if the observer lacks the required Strength, Agility, flexibility, anatomy or combat Skill. Understanding motion is not equivalent to being able to perform it.
+
+Special abilities and Kekkei Genkai cannot normally be copied merely by observing their techniques. The observer can learn the application's structure but still lacks the biological mechanism. Where possible, they may create a derivative technique using a different mechanism that imitates part of the effect.
+
+Imperfect copying can produce variants with different seals, cost, range, stability, nature, risks or tactical role. Once materially different, the result receives its own jutsu record and mastery rather than inheriting the original technique's mastery.
+
+Identifying techniques during combat relies on actual knowledge and evidence. Characters may recognize a jutsu from seals, chakra nature, stance, known users or prior encounters, but mistaken identification and incomplete knowledge are possible. Hidden resolution should be used when failure itself would reveal information.
+
+NPCs and players use identical copying rules. Observed techniques, partial models, known counters and reconstructed variants persist as character knowledge rather than being globally revealed to the player.
+
 ## Open — later sections
 
-copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
