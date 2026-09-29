@@ -524,8 +524,34 @@ The host can develop operational synchronization through practice: controlled ch
 
 NPCs and players use identical jinchūriki rules. Tailed beasts continue to think, remember, form opinions and pursue goals independently of the player, and their relationships with villages and hosts persist across generations.
 
+## Provisional — 3.24 Sage chakra, natural energy and Sage Mode
+
+Natural Energy is an environmental resource distinct from a character's personal chakra. Senjutsu chakra is created by correctly integrating gathered Natural Energy with the user's own physical/spiritual chakra; Sage Mode is a transformation state produced by maintaining that integration at sufficient scale.
+
+Natural Energy must be sensed, gathered, admitted and balanced. Ordinary chakra reserves cannot substitute for it. Gathering rate depends on training, concentration, environment, method and compatibility. Stillness is the standard reliable method because movement greatly increases the difficulty of sensing and balancing intake; gathering while moving requires advanced proficiency, a special method, compatible physiology or an external gatherer.
+
+Natural Energy exists with varying environmental density and quality. A user may find low, normal, rich or unusually saturated areas. More abundant energy can increase gathering speed but may also raise overload risk. Special locations can have distinctive natural-energy characteristics.
+
+Balance is the central danger. Too little Natural Energy simply produces weak/incomplete senjutsu integration; too much can overwhelm the user's chakra/body and cause tradition-specific mutation, petrification, loss of function or other assimilation effects. Natural-energy overload is distinct from ordinary chakra overexertion.
+
+Large personal chakra reserves are a mixed advantage. They allow a larger eventual Senjutsu Chakra pool and may improve tolerance, but proportionally more Natural Energy must be gathered to reach the same balanced state. Huge reserves therefore can make full Sage preparation slower or technically harder rather than automatically easier.
+
+Senjutsu training can use a broad 0–100 Sage/Senjutsu Proficiency when meaningful. Proficiency governs Natural Energy sensing, gathering rate, intake precision, balancing, transformation stability, safe capacity, partial use and advanced gathering methods. Individual Senjutsu techniques still use normal jutsu mastery.
+
+Sage Mode uses the Transformation framework. It modifies only explicitly defined Attributes, Output, senses, resistances, regeneration or technique access. Different Sage traditions may produce different physical traits, sensory effects, risks and techniques; there is no universal one-size-fits-all Sage stat package.
+
+Natural Energy can enhance physical actions or jutsu only through explicit Senjutsu applications/scaling. Adding Senjutsu chakra does not grant a universal damage multiplier or automatically upgrade every known technique.
+
+Gathered Natural Energy and converted Senjutsu chakra are finite during use. Once consumed, the user must gather more unless a specific ability provides storage or continuous intake. Storage of Natural Energy requires an explicit compatible mechanism rather than being automatically available.
+
+Clones or allies can assist gathering only when their mechanics permit it. A clone can gather Natural Energy using its own allocated chakra and proficiency; any returned Senjutsu chakra follows the clone's return rules and cannot duplicate chakra or bypass the original user's safe assimilation capacity. External gatherers can collect and transfer Natural Energy only through a compatible technique/relationship.
+
+A user may learn limited Natural Energy sensing, partial Senjutsu infusion or small-scale balancing before achieving a full Sage transformation. Conversely, entering Sage Mode does not automatically teach every Sage technique associated with the tradition.
+
+NPCs and players use identical Senjutsu rules. Environmental Natural Energy, hidden overload thresholds, lineage/physiology compatibility and Sage-tradition knowledge persist as simulation state rather than protagonist privileges.
+
 ## Open — later sections
 
-Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
