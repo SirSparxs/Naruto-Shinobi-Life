@@ -460,8 +460,38 @@ Hiden techniques do not gain automatic power bonuses for secrecy. Their strength
 
 NPCs and players use identical Hiden rules. Clan knowledge, teacher availability, archives, branch access, defections and losses persist as world state and can change which techniques exist or are accessible across generations.
 
+## Provisional — 3.22 Transformations and power states
+
+Transformations are temporary or staged states that modify an existing character rather than replacing them with a separate character sheet. A transformation record specifies activation, prerequisites, modified Attributes/Skills/resources, granted capabilities, sensory changes, duration, maintenance, strain, compatibility, deactivation and recovery.
+
+Transformations can be physical, chakra-cloak based, seal-driven, external-chakra states, biological mutations, curse-mark states, Sage-like states or other mechanism-specific forms. The source determines what can change and what limits apply.
+
+Modifiers are explicit. A form may raise Strength, Agility, Endurance, Chakra Output, sensory range, regeneration or technique access, but unchanged traits remain unchanged. Transformations do not grant unrelated Skills, knowledge or jutsu unless explicitly included.
+
+Partial and staged transformations are allowed when supported by the mechanism. Lower stages may cost less, create less strain or preserve control; higher stages may provide greater capability at higher resource, stability or bodily cost.
+
+Activation can be instant, ramping, triggered, ritualized, forced or conditional. Some forms require accumulated chakra, natural energy, external cooperation, injury, emotion, seals or other resources. Activation time and vulnerability follow normal execution rules.
+
+Maintenance can consume chakra, stamina, health, stored power, external chakra or other resources. Some transformations are self-sustaining for a fixed period; others demand active maintenance. Duration is determined by resource supply, concentration, bodily tolerance and the form's own rules.
+
+Transformations may change safe and maximum Output. Greater available Output does not automatically grant the Control or technique mastery to use it efficiently. Forms can therefore produce raw power faster than the user's proficiency develops.
+
+Physical strain is separate from chakra depletion. A transformation can damage muscles, organs, nerves, chakra pathways or other anatomy even when the user still has ample chakra. Persistent consequences are tracked through the relevant injury/status systems.
+
+Loss of control is not a universal transformation mechanic. It applies only where the form's source can override judgment, alter cognition, involve another entity, produce instinctive aggression or otherwise justify it. When present, control can degrade gradually rather than switching instantly between total control and berserk.
+
+Forced transformations are possible only when the mechanism permits external activation, possession, seals, infection or another triggering source. A transformed character may attempt suppression, resistance or deactivation according to the ability.
+
+Deactivation can be voluntary, resource-driven, forced, interrupted or conditional. Ending a state may cause post-transformation fatigue, chakra instability, recovery debt, injuries or no special penalty depending on the form. There is no universal transformation cooldown.
+
+Multiple transformations require compatibility. Forms may stack, partially coexist, overwrite one another, compete for the same resource/pathways or become dangerously unstable. The system evaluates the actual mechanisms rather than applying a universal transformation-slot limit.
+
+Mastery/proficiency can improve activation speed, partial control, efficiency, duration, stability, safe Output and the ability to use ordinary jutsu while transformed. It does not erase intrinsic costs or automatically grant mastery of abilities unlocked by the form.
+
+NPCs and players use identical transformation rules. The simulation tracks the base character plus active modifiers, hidden stages, resource debt and persistent consequences rather than swapping to a disconnected alternate stat block.
+
 ## Open — later sections
 
-transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
