@@ -820,8 +820,40 @@ Knowledge can be duplicated without removing it from the original source, but ph
 
 NPCs and players follow identical distribution rules. The world tracks who knows, teaches, stores and can access important techniques, allowing knowledge to spread, fragment, disappear and re-emerge naturally over time.
 
+## Provisional — 3.34 Generational transmission and long-term jutsu evolution
+
+Long-term transmission is separated into biological inheritance, knowledge transmission and institutional transmission. Children do not inherit learned techniques, Skill ranks, jutsu mastery, memories or combat experience unless an explicit special ability says otherwise. Hereditary abilities follow the Kekkei Genkai framework; Hiden and ordinary jutsu must be taught or otherwise acquired.
+
+Family lineage can strongly affect opportunity without creating automatic proficiency. Children may grow up with access to teachers, archives, specialized equipment, clan exercises, social expectations and early conditioning. Adopted children can receive the same educational advantages where biology is not a true prerequisite.
+
+Hereditary traits can vary, recombine, remain latent or mutate according to each ability's Heritability Profile. A parent's transplant, jinchūriki status, learned Sage Mode, ordinary Hiden knowledge or acquired transformation does not automatically become genetic. Heritable artificial modifications require an explicit change to reproductive biology.
+
+Knowledge passes through teachers, students, written records, demonstrations, apprenticeships, family instruction, institutional curricula, copied observations and research archives. Teaching quality affects how efficiently the next generation learns but never transfers the instructor's mastery directly.
+
+Traditions can experience drift. Oral or poorly documented transmission can gradually alter seals, terminology, training drills, safety practices or tactical doctrine. Drift can produce harmless stylistic differences, degradation, lost components or useful variants. Strong documentation and repeated quality control reduce drift without eliminating innovation.
+
+Techniques evolve through deliberate refinement and descendant/student innovation. A signature technique can become a family or school tradition; a Hiden can branch into multiple lineages; standardized techniques can acquire regional variants. Materially different forms receive separate jutsu records under the variant/new-technique rules.
+
+Institutional continuity strongly influences long-term knowledge survival. Academies, clans, temples, research divisions and archives can train new instructors, preserve redundant records and standardize curricula. Organizations with only one master or one archive are vulnerable to knowledge bottlenecks and extinction.
+
+Succession is not automatic. A master can die before choosing a successor, refuse to teach, transmit only part of a discipline or leave incomplete notes. Wars, purges, migration, political reform and disasters can rapidly reshape which techniques survive into the next generation.
+
+Curricula can change over time. Techniques may be added, removed, simplified, specialized or replaced as doctrine, technology, safety knowledge and political priorities change. These decisions alter the statistical capabilities of future cohorts rather than instantly changing existing adults.
+
+Migration, marriage, adoption, alliances, defectors and captured archives can move traditions across clan/village boundaries. Knowledge transmission follows actual social access, while biological inheritance follows the separate hereditary rules. A child can inherit one lineage biologically while being culturally trained in another tradition.
+
+Summoning contracts, Sage traditions, Kinjutsu authorizations, jinchūriki status and other exceptional systems are not ordinary hereditary knowledge. They pass only through their own mechanisms: contracts/social permission, teaching, sealing, transfer, authorization or equivalent explicit processes.
+
+Generational power creep is not automatic. Later generations may benefit from better curricula, safer variants, broader archives or technology, but knowledge can also stagnate, fragment or disappear. Improvements require actual research, selection, institutional preservation and adoption.
+
+Population-level specialization can emerge because many generations repeatedly train similar Skills, preserve particular knowledge and select compatible career paths. This cultural/institutional specialization is distinct from a genetic Attribute bonus unless heredity actually supports one.
+
+Historical provenance remains persistent. The simulation can track creator, teacher lineages, derivative branches, institutional adoption, lost periods and rediscovery. Characters may know only simplified or incorrect versions of that history.
+
+NPCs and players follow identical generational rules. Children, students, clans and villages develop from the actual biological, educational and institutional conditions created by prior generations, allowing the world to diverge naturally from its starting canon over decades.
+
 ## Open — later sections
 
-generational transmission; balance safeguards.
+balance safeguards.
 
 Track completion in issue #3.
