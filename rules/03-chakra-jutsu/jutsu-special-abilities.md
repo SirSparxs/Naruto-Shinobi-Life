@@ -490,8 +490,42 @@ Mastery/proficiency can improve activation speed, partial control, efficiency, d
 
 NPCs and players use identical transformation rules. The simulation tracks the base character plus active modifiers, hidden stages, resource debt and persistent consequences rather than swapping to a disconnected alternate stat block.
 
+## Provisional — 3.23 Tailed beasts and jinchūriki framework
+
+A tailed beast is an independent persistent entity with its own identity, memories, personality, chakra, abilities, relationships and world state. A jinchūriki is a host connected to that entity through a sealing/binding mechanism. The beast is not converted into a passive stat bonus.
+
+Host chakra and tailed-beast chakra are tracked as separate resources. The host's personal maximum does not automatically increase by the beast's full reserves. Access depends on seal architecture, compatibility, relationship/cooperation, host control, transfer rate and the amount of beast chakra currently made available.
+
+The sealing architecture defines containment, communication, chakra leakage, authorized host access, involuntary transfer, suppression, escape conditions, extraction behavior and what happens if the host dies. Different jinchūriki can therefore interact with the same class of entity very differently because their seals differ.
+
+Relationship and operational control are separate. A host may forcibly access some chakra through a restrictive seal while having a hostile relationship with the beast; a trusted beast may willingly supply chakra even when the host has limited technical proficiency. Cooperation affects willingness, efficiency and access but does not replace Chakra Control or transformation proficiency.
+
+Tailed-beast chakra is foreign/external chakra. Channeling it can raise available Output and fuel transformations, but the host must still safely route and control it. Poor compatibility, excessive transfer or hostile interference can cause instability, pathway stress, bodily damage, emotional/cognitive influence or loss of control according to the specific host-beast system.
+
+Jinchūriki transformations use the normal Transformation framework. Possible states can include minor chakra leakage, deliberate chakra draw, cloaks, partial manifestation, full transformation or other beast-specific forms. These are not universal fixed stages; each host, beast and seal defines which states are possible and what they modify.
+
+Loss of control is mechanism-based rather than automatic. It can result from hostile influence, weakened containment, excessive foreign chakra, psychological compromise or another explicit cause. Control can degrade gradually, and the beast's behavior while influencing or controlling the host follows its own personality and goals.
+
+A tailed beast does not automatically obey the host. It can cooperate, refuse, deceive, negotiate, withhold chakra, protect the host for self-preservation, or deliberately interfere when the seal allows. Relationships change through actual interaction and history.
+
+Beast-derived techniques require appropriate access and capability. A host does not automatically learn every tailed-beast technique merely by containing one. Techniques such as chakra cloaks, specialized sensory effects or concentrated beast attacks require their own proficiency/mastery and, where appropriate, beast cooperation.
+
+Damage is persistent. Injury to the host remains real. Injury to a physically released tailed beast remains part of the beast's state. Damage to temporary cloaks or chakra manifestations only transfers to host/beast where that form's mechanics specify it; manifestation HP is not automatically the beast's true body.
+
+Extraction is a major medical/sealing event. Removing a tailed beast from a host is normally catastrophic and often fatal because of the deep chakra/seal relationship, unless an explicit survival mechanism, intervention or unusual physiology allows otherwise. Extraction does not erase the beast's identity or memories.
+
+If a tailed beast is truly destroyed, its chakra-nature allows eventual reconstitution unless a specific exceptional mechanism prevents it. A beast lost with a dying host may likewise enter a reformation state if the seal does not successfully release or transfer it. Reformation takes real world time and does not provide immediate resurrection in combat.
+
+Fragments or divided portions of tailed-beast chakra can exist when an explicit sealing/division mechanism creates them. A fragment is not automatically a second complete beast and cannot duplicate the original's full reserves, identity or capabilities. Any true split consciousness/entity state must be explicitly supported.
+
+Multiple jinchūriki cannot each contain the same complete undivided beast simultaneously. Transfer between hosts requires extraction/resealing or another legitimate space-time/sealing mechanism.
+
+The host can develop operational synchronization through practice: controlled chakra draw, safe Output, transformation stability, communication and joint techniques. This is distinct from interpersonal trust. High synchronization with a hostile beast is possible in limited coercive systems, while deep trust without sufficient technical control can still produce unsafe use.
+
+NPCs and players use identical jinchūriki rules. Tailed beasts continue to think, remember, form opinions and pursue goals independently of the player, and their relationships with villages and hosts persist across generations.
+
 ## Open — later sections
 
-tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
