@@ -852,8 +852,48 @@ Historical provenance remains persistent. The simulation can track creator, teac
 
 NPCs and players follow identical generational rules. Children, students, clans and villages develop from the actual biological, educational and institutional conditions created by prior generations, allowing the world to diverge naturally from its starting canon over decades.
 
+## Provisional — 3.35 Balance safeguards and system integrity
+
+Ruleset 3 uses system integrity rather than artificial encounter scaling as its primary balance method. A mechanic is acceptable when its source, prerequisites, resources, throughput, information requirements, risks, persistence and interactions are explicit enough that the same rules can be applied to players and NPCs without narrative exceptions.
+
+Resource conservation is the default. Chakra, stored chakra, Natural Energy, tailed-beast chakra, physical materials, ammunition, consumables and other finite resources cannot be duplicated by clones, summoning, absorption, storage, transformation, sealing or transfer unless an explicit ability truly creates new usable energy/matter and defines its source and limits. Convert/transfer loops cannot produce net gain without an external input.
+
+Prerequisites remain binding after acquisition. Copying, teaching, scrolls, inheritance, observation, promotion, transformation or special access can provide information or permission but do not create missing biology, Nature Transformation, Shape, Control, Output, contracts, anatomy, tools, materials or knowledge.
+
+Every exception must identify the baseline rule it overrides and the scope of the override. "Special ability" is not permission to ignore unrelated systems. Narrow exceptions are preferred: an ability may ignore one targeting restriction, alter one resource interaction or bypass one prerequisite while leaving all other rules intact.
+
+Power sources remain separated unless an explicit mechanism combines them. Personal chakra, external chakra, stored chakra, Senjutsu chakra, tailed-beast chakra and other special pools do not become one undifferentiated maximum by convenience. Access, transfer rate, compatibility, Output and depletion remain meaningful.
+
+No universal stacking rule permits unlimited multiplicative growth. Simultaneous buffs, transformations, reinforcements and special states are evaluated for overlapping mechanisms, bodily limits, resource competition, modifier precedence and compatibility. Effects that improve the same underlying process do not automatically multiply one another.
+
+Clone multiplication cannot create exponential resources, permanent equipment, biological training or duplicated external entities. Parallel practice is limited by allocated chakra, cognitive assimilation, novelty/redundancy and the physical distinction between information gained and bodily adaptation.
+
+Absorption cannot become infinite defense or infinite recharge. Rate, capacity, compatibility, processing and source depletion remain binding. Absorb/release cycles conserve resources and physical/material consequences already created by a jutsu may remain.
+
+Storage and sealing cannot bypass conservation. Sealing an object relocates/contains that object; stored chakra must have been supplied; summoning relocates an existing entity/object unless a technique explicitly creates a temporary construct.
+
+Technique rank, ninja rank, rarity, secrecy and provenance never substitute for actual mechanics. None functions as a universal power score. Outcomes use the relevant Attributes, Skills, mastery, resources, mechanism, environment and Ruleset 2 resolution.
+
+Costs and consequences persist. Injuries, pathway damage, consumed lifespan, destroyed equipment, depleted rare resources, weakened seals, transformation stress, revealed secrets and environmental destruction do not reset after a scene unless a legitimate recovery/repair/replacement process occurs.
+
+Information boundaries are part of balance. Characters act only on knowledge they legitimately possess. The engine may track exact chakra, hidden techniques, latent abilities, counters, seal conditions and environmental hazards privately; player or NPC knowledge changes only through observation, sensing, intelligence, teaching, research or disclosure.
+
+No protagonist privileges or encounter-based retroactive optimization are allowed. NPCs cannot gain convenient counters because the player chose a strategy, and the player does not receive hidden exemptions from costs, prerequisites, death risk or uncertainty. Difficulty emerges from world state and decisions.
+
+Canon is evidence for how an ability works, not permission to import every dramatic presentation as an unrestricted rule. When canon is ambiguous or contradictory, use the narrowest coherent interpretation that preserves demonstrated capabilities while fitting the shared system. Original abilities are judged by the same standard.
+
+New ability review uses a System Integrity Check before acceptance: define source/mechanism; required access and prerequisites; resources and rates; activation/execution; exact effects; scaling limits; persistence; risks/costs; counters/interactions; copy/inheritance rules; knowledge visibility; clone/storage/absorption implications; and any explicit rule overrides. Missing answers become design questions or hidden limits rather than silently assumed advantages.
+
+Exploit review asks whether the mechanic creates infinite resources, infinite training, unavoidable offense, perfect defense, consequence-free resurrection, unrestricted copying, effortless permanent stat gain, costless stacking, global knowledge access or other loops that invalidate established systems. If so, repair the underlying mechanism rather than adding an arbitrary cooldown or player-only prohibition.
+
+Balance does not require every ability to be equal. Some abilities can be extraordinarily powerful, efficient, rare or unfair in a local matchup when the world plausibly produces them. System balance means their capabilities and limits remain coherent, resources and consequences remain real, and comparable rules apply to everyone.
+
+Future refinement can change numbers, thresholds and implementation details without violating these principles. When a later rule conflicts with an earlier one, the change should be explicit, versioned and propagated through affected records rather than silently creating inconsistent exceptions.
+
+NPCs and players use identical integrity rules. Ruleset 3 therefore provides one extensible chakra/jutsu framework capable of supporting canon techniques, original abilities, research, generational evolution and emergent interactions without relying on protagonist privilege or ad hoc rulings.
+
 ## Open — later sections
 
-balance safeguards.
+None — planned Ruleset 3 sections complete.
 
 Track completion in issue #3.
