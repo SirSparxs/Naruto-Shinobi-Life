@@ -722,8 +722,36 @@ Resource conservation applies. Absorption does not create net chakra, and repeat
 
 NPCs and players use identical interference rules. Exact remaining reserves, absorption limits, hidden seals and pathway damage can remain internal state until legitimate sensing, diagnosis or experience reveals them.
 
+## Provisional — 3.31 Non-chakra resources, tools, consumables and material requirements
+
+Non-chakra resources are persistent finite assets rather than free extensions of a character's jutsu list. Weapons, ammunition, tags, medicines, poisons, scrolls, reagents, specialized materials, stored equipment and technique components must actually be available when an action requires them.
+
+Inventory detail scales with importance. Unique, scarce, expensive or tactically decisive items are tracked individually; frequently used consumables can be tracked as exact quantities or supply bundles; mundane background supplies can remain abstract until scarcity matters. Abstraction may reduce bookkeeping but cannot create an item retroactively when prior loadout, availability or depletion makes possession implausible.
+
+Characters can maintain standard loadouts for common mission types. A standard loadout establishes what ordinary equipment is normally carried without requiring repeated packing decisions. Deviations, rare equipment and depleted supplies remain explicit.
+
+A technique's material requirement specifies the resource's role: reusable tool/focus, consumable component, catalyst, payload, reagent, storage medium, anchor or environmental source. Reusable tools are not consumed merely by use unless the mechanism damages or expends them; consumables are actually removed.
+
+Equipment quality and compatibility can affect reliability, capacity, conductivity, durability, precision or safety, but owning superior equipment does not grant the Skill to use it. Chakra-conductive weapons/materials must define conductivity, tolerance, retention and Nature compatibility where relevant.
+
+Durable equipment uses condition rather than needing a universal hit-point system. Wear, overload, poor maintenance, corrosion, heat, impact or incompatible chakra can degrade condition. Damaged equipment may lose performance or fail; repair requires appropriate materials, time, tools and expertise.
+
+Ammunition and thrown tools obey conservation. Fired/thrown items leave inventory, may be destroyed, lost or recoverable, and can be retrieved when circumstances permit. Summoning, storage seals or clones cannot duplicate permanent supplies without an explicit resource-producing mechanism.
+
+Explosive tags and other prepared chakra tools combine physical inventory with stored formulae/chakra. Their effect, trigger, storage life, security and manufacturing requirements belong to the relevant Fūinjutsu/tool record rather than being generic consumables.
+
+Medicines, poisons and performance-enhancing pills specify dose, delivery, onset, duration, effects, side effects, contraindications and depletion. Repeated dosing may create tolerance, toxicity, stacking limits or recovery debt only where the substance's mechanism supports it. Consumables never bypass injury, transformation or Attribute rules without an explicit effect.
+
+Crafting/manufacturing requires a recipe/design, materials, time, appropriate Skill/knowledge, facilities/tools where necessary and successful quality control. Rare ingredients and proprietary processes can constrain production even when the user knows the finished item's function.
+
+Scrolls distinguish the physical object from the knowledge or contents it carries. Losing a scroll does not erase already learned knowledge, while possessing a scroll does not automatically teach its contents. Storage scrolls conserve whatever objects/resources were sealed inside.
+
+Carry burden is modeled at useful qualitative detail rather than exact weight for every object. Excessive equipment can affect mobility, endurance, concealment or access speed. The system tracks exact mass/volume only when it materially changes an outcome.
+
+Resource availability persists across scenes. Expended tags, medicine, ammunition and ingredients remain gone until recovered, purchased, issued, crafted or otherwise replenished. NPCs use the same supply constraints. Off-screen activity can abstract routine consumption but must preserve consequential shortages and rare-item losses.
+
 ## Open — later sections
 
-non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
