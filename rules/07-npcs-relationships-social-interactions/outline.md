@@ -10,7 +10,7 @@ The system should favor believable agency over game-like relationship meters. So
 ## 1. Core Philosophy, Scope & Ownership
 - NPCs are autonomous people, not player-controlled reward dispensers.
 - Relationships are persistent, contextual, and multi-dimensional.
-- Social actions can influence decisions but normally cannot force behavior that violates an NPC's strongest motives, values, loyalties, or survival instincts.
+- Social actions can influence decisions but normally cannot force behavior that violates an NPC's strongest motives, values, loyalties, boundaries, or survival instincts.
 - Distinguish rules owned here from Rulesets 1–4 and later world, faction, mission, economy, stealth, and politics systems.
 
 ## 2. NPC Simulation Tiers
@@ -71,8 +71,9 @@ Relationships should use multiple independent dimensions rather than one approva
 - Familiarity
 - Obligation / indebtedness
 - Resentment / hostility
+- Arousal — adult-only, context-sensitive physical/sexual interest; independent from affection, trust, loyalty, and romantic commitment
 
-Define which dimensions are universal, optional, derived, or event-based.
+Define which dimensions are universal, optional, derived, contextual, or event-based. Arousal should never imply consent, affection, romantic compatibility, loyalty, or willingness to act.
 
 ## 10. Relationship Change & Persistence
 - Event magnitude and context.
@@ -82,6 +83,7 @@ Define which dimensions are universal, optional, derived, or event-based.
 - Forgiveness, reconciliation, grudges, and permanent scars.
 - Natural drift or decay where appropriate.
 - Relationship thresholds that change available behavior without rigidly scripting it.
+- Different relationship dimensions can move in different directions after the same event.
 
 ## 11. Social Context & Situational Modifiers
 - Private vs public setting.
@@ -97,7 +99,16 @@ Define which dimensions are universal, optional, derived, or event-based.
 - Attribute contributions from Intelligence, Perception, Willpower, Agility where appropriate, etc.
 - Skill mastery and specialization.
 - Insight / reading people.
-- Persuasion, negotiation, deception, etiquette, leadership, intimidation, performance, teaching, interrogation, and related competencies.
+- Persuasion.
+- Negotiation.
+- Deception.
+- Etiquette.
+- Leadership.
+- Intimidation.
+- Performance.
+- Teaching.
+- Interrogation.
+- Seduction — adult-only where romantic or sexual intent is involved; governs presentation, flirtation, tension-building, and reading reciprocal interest, but does not override consent, boundaries, attraction, or autonomy.
 - Avoid a universal Charisma stat if the established attribute model does not use one.
 
 ## 13. Social Intent & Interaction Categories
@@ -122,7 +133,8 @@ Define common social intents such as:
 - De-escalate
 - Apologize / reconcile
 - Gather information
-- Seduce / court where age-appropriate and relevant
+- Flirt / court where age-appropriate
+- Seduce where all involved characters are adults and the context is appropriate
 
 ## 14. Social Resolution Procedure
 - Determine intent and requested outcome.
@@ -164,7 +176,9 @@ Define common social intents such as:
 - Success may improve willingness rather than guarantee exact behavior.
 - Define impossible, possible-but-costly, and readily influenceable requests.
 - Distinguish persuasion from supernatural mind-altering effects governed elsewhere.
-- Preserve meaningful NPC consent and agency.
+- Preserve meaningful NPC consent, boundaries, and agency.
+- Attraction or arousal never constitutes automatic consent.
+- Seduction cannot override refusal or make an otherwise impossible romantic/sexual outcome possible.
 
 ## 19. Reputation, Fame, Notoriety & Public Image
 - Personal reputation versus institutional/faction reputation.
@@ -199,15 +213,114 @@ Define common social intents such as:
 - Faction standing where it is primarily social.
 - Group opinion can differ from individual members.
 
-## 23. Friendship, Family, Rivalry & Romance
+## 23. Friendship, Family & Rivalry
 - Relationship categories emerge from history rather than replacing relationship axes.
 - Friendship and best-friend bonds.
 - Sibling, parental, guardian, clan-family, and chosen-family dynamics.
-- Rivalries can combine respect, affection, competition, and resentment.
-- Romance, attraction, courtship, exclusivity, jealousy, breakups, and reconciliation where age-appropriate.
+- Rivalries can combine respect, affection, competition, jealousy, and resentment.
 - No relationship category should guarantee obedience.
 
-## 24. Promises, Favors, Debts & Obligations
+# Romance Subsystem
+Romance receives dedicated treatment rather than being folded into a generic relationship category. It should be gradual, multi-dimensional, character-specific, and capable of developing independently of the player's involvement.
+
+## 24. Attraction, Interest & Chemistry
+- Romantic interest as distinct from affection, friendship, respect, and sexual arousal.
+- Adult physical/sexual arousal as its own relationship dimension.
+- Aesthetic attraction, romantic attraction, emotional attraction, and adult sexual attraction may diverge.
+- Preferences and incompatibilities.
+- First impressions versus developed attraction.
+- Context, familiarity, confidence, personality, reputation, presentation, and shared experience.
+- One-sided attraction.
+- Mutual attraction.
+- Attraction without trust.
+- Affection without attraction.
+- Arousal without romantic attachment.
+- Attraction may change over time and should not be guaranteed by social skill alone.
+- Age-appropriate crushes can exist for younger characters without sexual-state mechanics.
+
+## 25. Flirting, Seduction & Reciprocal Interest
+- Flirting as exploratory social behavior rather than an automatic advance toward romance.
+- Seduction skill for adult characters and adult contexts.
+- Reading reciprocal interest.
+- Signals can be subtle, ambiguous, mistaken, or intentionally concealed.
+- Confidence, presentation, timing, privacy, mood, chemistry, familiarity, and reputation.
+- Success can increase interest, comfort, tension, or openness; it cannot manufacture consent or erase incompatibility.
+- Repeated unwanted advances should create negative social consequences.
+- NPCs may initiate flirting or seduction themselves.
+- Different characters should have different responsiveness, styles, and boundaries.
+
+## 26. Courtship & Relationship Formation
+- Moving from attraction to intentional pursuit.
+- Dating/courtship conventions by village, clan, culture, age, and social class.
+- Confessing feelings.
+- Asking someone out.
+- Private versus public courtship.
+- Gifts, dates, shared activities, and meaningful gestures.
+- Competing obligations from missions, clan, family, and rank.
+- One-sided pursuit and graceful rejection.
+- Mutual interest without immediate commitment.
+- Defining the relationship.
+- Casual versus committed expectations for adults where culturally/personally appropriate.
+- NPCs can initiate, hesitate, reject, reconsider, or pursue relationships independently.
+
+## 27. Established Romance, Intimacy & Partnership
+- Relationship commitment.
+- Emotional intimacy.
+- Vulnerability and confiding.
+- Trust within romance.
+- Affection and companionship.
+- Adult physical intimacy represented at an appropriate simulation level without replacing character agency.
+- Differences in desired closeness, privacy, frequency of contact, and commitment.
+- Long-distance relationships and mission separation.
+- Public versus private relationships.
+- Clan/family approval or disapproval.
+- Career and village-duty conflicts.
+- Mutual support during injury, grief, political conflict, or danger.
+- Romantic partners remain independent NPCs with their own priorities and social networks.
+
+## 28. Boundaries, Consent & Compatibility
+- Personal boundaries.
+- Romantic boundaries.
+- Adult sexual boundaries.
+- Privacy expectations.
+- Exclusivity and relationship agreements.
+- Compatibility and incompatibility.
+- Respecting refusal.
+- Changing one's mind.
+- Miscommunication without treating ambiguity as consent.
+- Power imbalance from rank, command, mentorship, employment, imprisonment, medical dependency, etc.
+- Social and institutional consequences where a relationship crosses relevant ethical or authority boundaries.
+- Consent is contextual and cannot be permanently unlocked by relationship score.
+
+## 29. Jealousy, Insecurity, Rival Suitors & Romantic Conflict
+- Jealousy as an emotion, not automatic possessiveness.
+- Insecurity.
+- Rival suitors.
+- Unreciprocated attraction.
+- Ex-partners.
+- Perceived versus actual betrayal.
+- Flirting outside established expectations.
+- Competing loyalties.
+- Mission secrecy creating suspicion.
+- Different personalities respond differently to jealousy.
+- Conflict can alter trust, affection, resentment, and commitment independently.
+- NPC romantic triangles can develop without the player at their center.
+
+## 30. Breakups, Separation & Romantic Reconciliation
+- Relationship dissatisfaction.
+- Gradual drifting apart.
+- Explicit breakups.
+- Separation caused by missions, exile, clan obligations, or ideological conflict.
+- Betrayal and infidelity where applicable to adult relationships.
+- Grief after relationship loss.
+- Remaining friends.
+- Hostile breakups.
+- Reconciliation attempts.
+- Rebuilding trust.
+- Permanent incompatibility.
+- Former partners retain history and memories rather than resetting to strangers.
+
+## 31. Promises, Favors, Debts & Obligations
 - Explicit promises and implicit expectations.
 - Personal favors and institutional debts.
 - Material versus social obligations.
@@ -215,14 +328,14 @@ Define common social intents such as:
 - Repayment, refusal, renegotiation, and exploitation.
 - Honor-based obligations and cultural expectations.
 
-## 25. Betrayal, Conflict, Rupture & Reconciliation
+## 32. Betrayal, Conflict, Rupture & Reconciliation
 - Betrayal severity depends on trust and stakes.
 - Public humiliation, abandonment, broken promises, treason, and personal harm.
 - Grudges and revenge motives.
 - Apologies, restitution, proof of change, and rebuilding trust.
 - Some relationship damage may be permanent or only partially repairable.
 
-## 26. Leadership, Loyalty & Followership
+## 33. Leadership, Loyalty & Followership
 - Leadership as a social competency, not mind control.
 - Earned loyalty versus formal obedience.
 - Orders under risk.
@@ -230,67 +343,73 @@ Define common social intents such as:
 - Subordinates can question, refuse, report, desert, or disobey under appropriate conditions.
 - Loyalty conflicts between person, team, clan, village, and ideology.
 
-## 27. NPC-to-NPC Social Simulation
+## 34. NPC-to-NPC Social Simulation
 - NPCs form and change relationships without the player present.
-- Off-screen conversations, alliances, rivalries, gossip, mentorship, romance, disputes, and favors.
+- Off-screen conversations, alliances, rivalries, gossip, mentorship, romance, courtship, breakups, disputes, and favors.
 - Compressed simulation for distant or low-relevance NPCs.
 - Player-centeredness avoidance: the world continues socially without the player.
+- Romantic relationships can form, deepen, fail, or end between NPCs independently.
 
-## 28. NPC Routines, Availability & Social Access
+## 35. NPC Routines, Availability & Social Access
 - Daily routines, work, training, missions, sleep, family time, and obligations.
 - Whether an NPC is available to talk.
 - Access controlled by status, guards, appointments, privacy, or circumstance.
 - Avoid NPCs existing in stasis awaiting the player.
 
-## 29. Social Consequences & Access
+## 36. Social Consequences & Access
 - Relationship and reputation effects on prices, information, training, introductions, shelter, aid, mission access, political access, medical help, recruitment, and hostility.
 - Benefits should emerge from believable causality rather than arbitrary affinity rewards.
 - Negative consequences can include refusal, avoidance, gossip, reporting, sabotage, rivalry, or retaliation.
 
-## 30. Hidden Social State & Player-Facing Information
-- NPC true motives, relationship axes, beliefs, secrets, and rolls may remain hidden.
+## 37. Hidden Social State & Player-Facing Information
+- NPC true motives, relationship axes, beliefs, secrets, attraction, adult arousal where relevant, and rolls may remain hidden.
 - Player receives behavior, tone, body language, reputation signals, and information their character could reasonably perceive.
 - Avoid revealing exact internal values unless an explicit game mechanic supports it.
 - Track hidden state persistently for continuity.
+- Attraction or arousal should not be exposed as a guaranteed readable meter.
 
-## 31. Social Progression & Learning
+## 38. Social Progression & Learning
 - Social skills improve through use/training under Ruleset 1.
 - NPCs learn the player's habits and tactics.
 - Repeated deception/intimidation can become less effective against familiar targets.
+- Repeated flirtation/seduction patterns can likewise become predictable or unwelcome.
 - Relationships create new opportunities but also new vulnerabilities and expectations.
 
-## 32. Random & Procedural NPC Generation
+## 39. Random & Procedural NPC Generation
 - Generate coherent NPCs from culture, village, clan, profession, rank, age, and circumstances.
-- Motives, quirks, relationships, knowledge, routines, and competence should be internally consistent.
+- Motives, quirks, relationships, knowledge, routines, competence, preferences, and compatibility factors should be internally consistent.
 - Avoid random-trait soup.
 - Generated NPCs become persistent if they meaningfully enter the simulation.
 
-## 33. Continuity, Persistence & State Storage
+## 40. Continuity, Persistence & State Storage
 - What state must be recorded for recurring NPCs.
 - Relationship updates.
 - Memories and secrets.
 - Current goals and emotional state.
 - Faction/team ties.
 - Active promises, favors, debts, grudges, and unresolved social threads.
+- Romantic history, current partners, prior relationships, courtship state, and relevant boundaries where appropriate.
 - Time-stamped event history where useful.
 
-## 34. Cross-Ruleset Interfaces
+## 41. Cross-Ruleset Interfaces
 - Ruleset 1: attributes, skills, mastery, growth.
 - Ruleset 2: difficulty, opposed checks, hidden rolls, degrees of success.
 - Ruleset 3: genjutsu, chakra-based perception, mind-affecting techniques.
 - Ruleset 4: injury, fatigue, pain, combat aftermath, intimidation context.
 - Later rulesets: missions, stealth/infiltration, economy, factions, law, politics, world simulation.
 
-## 35. Anti-Exploitation Rules
+## 42. Anti-Exploitation Rules
 - No social check spam.
 - No gift/favor farming loops.
 - No infinite reputation grinding from trivial repetitive acts.
-- No universal persuasion build that overrides character-specific resistance.
+- No universal persuasion or seduction build that overrides character-specific resistance, attraction, compatibility, or boundaries.
 - No reading exact NPC state through meta-information.
 - No consequence-free intimidation or deception.
+- No repeated unwanted romantic advances without realistic consequences.
+- Attraction, affection, or adult arousal never imply consent.
 - Avoid player exceptionalism unless earned through established systems.
 
-## 36. Calibration & Edge-Case Testing
+## 43. Calibration & Edge-Case Testing
 Test against scenarios such as:
 - Persuading a friend to take a serious risk.
 - Convincing a hostile rival when the player has strong evidence.
@@ -303,6 +422,13 @@ Test against scenarios such as:
 - Conflicting loyalty to clan versus village.
 - A low-skill character succeeding because the request is reasonable and relationship is strong.
 - A high-skill character failing because the request crosses a hard moral boundary.
+- Two adults having strong physical chemistry but little trust or compatibility.
+- An adult NPC feeling affection without romantic or sexual attraction.
+- An adult seduction attempt succeeding socially without guaranteeing later intimacy.
+- A romantic confession being rejected despite high friendship and trust.
+- Two NPCs developing a romance off-screen.
+- A couple remaining affectionate while trust deteriorates after a serious lie.
+- A breakup that leaves respect intact but ends romantic commitment.
 
 ## Scope Guardrails
 Ruleset 7 should not duplicate:
@@ -312,13 +438,15 @@ Ruleset 7 should not duplicate:
 - Combat resolution and injury mechanics from Ruleset 4.
 - Full faction governance, economics, law, missions, stealth, or world-event simulation unless a social interface is required.
 
+Romantic and sexual-state mechanics involving arousal or seduction are restricted to adult characters. Younger characters may still have age-appropriate crushes, dating, romantic interest, jealousy, rejection, and relationship development without sexual-state mechanics.
+
 ## Recommended Development Order
 1. Core philosophy and scope.
 2. NPC simulation tiers.
 3. Identity, motives, agency, knowledge, memory.
-4. Relationship state model.
+4. Relationship state model, including arousal as an adult-only contextual axis.
 5. Relationship change.
-6. Social skill interface.
+6. Social skill interface, including seduction.
 7. Social resolution procedure.
 8. Persuasion/negotiation.
 9. Deception.
@@ -326,8 +454,14 @@ Ruleset 7 should not duplicate:
 11. Autonomy limits.
 12. Reputation and rumors.
 13. Networks and group relationships.
-14. Family/friendship/rivalry/romance.
-15. Promises, favors, betrayal, reconciliation.
-16. NPC-to-NPC simulation and routines.
-17. Consequences, persistence, anti-exploitation.
-18. Cross-ruleset interfaces and calibration.
+14. Friendship, family, and rivalry.
+15. Attraction, interest, chemistry, and the role of arousal.
+16. Flirting, seduction, and reciprocal interest.
+17. Courtship and relationship formation.
+18. Established romance, intimacy, and partnership.
+19. Boundaries, consent, and compatibility.
+20. Jealousy, romantic conflict, breakups, and reconciliation.
+21. Promises, favors, betrayal, and general reconciliation.
+22. NPC-to-NPC simulation and routines.
+23. Consequences, persistence, anti-exploitation.
+24. Cross-ruleset interfaces and calibration.
