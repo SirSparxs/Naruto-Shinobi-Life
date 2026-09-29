@@ -634,8 +634,40 @@ Original techniques follow the same balance rules as canon techniques. No effect
 
 NPCs and players use identical invention rules. NPC researchers, clans and villages can independently create, refine, publish, classify, lose or standardize new techniques, allowing the world's jutsu ecosystem to evolve over generations.
 
+## Provisional — 3.28 Jutsu counters, interactions and technique clashes
+
+Technique interaction is resolved from the actual mechanics involved rather than rank alone. Relevant factors can include Nature interaction, effective Output, stability, Shape, scale, density, penetration, duration, targeting, timing, environment, barriers, user mastery and technique-specific strengths or weaknesses.
+
+Counters are classified conceptually as hard, soft or situational. A hard counter directly disrupts, nullifies or bypasses the target mechanism under defined conditions. A soft counter provides an advantage without guaranteeing success. Situational counters depend heavily on terrain, timing, preparation or user knowledge.
+
+Elemental advantage is normally a soft mechanical advantage, not an automatic victory. The standard nature cycle modifies interaction efficiency where the techniques actually meet, but sufficient Output, superior Shape/stability, scale, environmental support or specialized design can overcome a disadvantaged nature. A minor advantaged technique does not automatically erase a vastly stronger opposing one.
+
+Technique rank never directly resolves a clash. Rank can correlate with complexity and typical capability, but a lower-rank technique specifically designed to intercept or disrupt another technique may defeat it.
+
+When two active techniques physically/chakra-wise collide, the system compares their relevant interaction properties rather than generic damage values. Possible outcomes include one overwhelming the other, partial penetration, mutual cancellation, deflection, destabilization, merger/reaction, residual effects or both continuing after reduced strength.
+
+Output represents available force/throughput, while stability determines whether the technique maintains coherent function under interference. A high-Output but unstable attack may be disrupted by a lower-Output technique designed to break its structure.
+
+Penetration and defense are separate dimensions. A concentrated piercing technique may defeat a broad defense despite lower total energy; a wide barrier may absorb diffuse attacks efficiently while struggling against focused penetration. Defensive techniques specify what they block, absorb, redirect or filter.
+
+Interception requires appropriate timing, targeting and geometry. A defensive jutsu can fail because it activated too late, covered the wrong area or could not reposition quickly enough even if it was otherwise strong enough.
+
+Cancellation requires a real mechanism. Opposing chakra does not generically annihilate on contact. Techniques can cancel when their Nature, Shape, frequency, formula, absorption, disruption or other mechanics actually oppose one another.
+
+Simultaneous effects are allowed. If neither technique directly prevents the other, both can succeed. Combat does not force every opposed action into a single winner/loser result.
+
+Sustained clashes can become resource contests. Maintaining opposing barriers, beams, bindings or fields can consume chakra, Output and concentration over time. A user can win by forcing the opponent to lose stability, exhaust resources, exceed safe Output or abandon the technique.
+
+Environmental interaction remains part of the clash. Water, fire, terrain, conductivity, wind, confined spaces, existing seals and prior battlefield changes can strengthen, weaken or redirect techniques according to their mechanics.
+
+Technique-specific weaknesses are explicit design properties rather than universal vulnerabilities. Knowledge of a weakness can convert an ordinary matchup into a strong counter, but a character must actually know or discover the weakness to exploit it intentionally.
+
+Resolution belongs to Ruleset 2 whenever the outcome is uncertain. Mechanically overwhelming or perfectly incompatible interactions can resolve automatically without unnecessary rolls.
+
+NPCs and players use identical interaction rules. The engine tracks actual techniques, hidden properties and battlefield state rather than selecting outcomes based on narrative importance or protagonist status.
+
 ## Open — later sections
 
-counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
