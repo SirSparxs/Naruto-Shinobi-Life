@@ -666,8 +666,38 @@ Resolution belongs to Ruleset 2 whenever the outcome is uncertain. Mechanically 
 
 NPCs and players use identical interaction rules. The engine tracks actual techniques, hidden properties and battlefield state rather than selecting outcomes based on narrative importance or protagonist status.
 
+## Provisional — 3.29 Environmental chakra and battlefield interaction systems
+
+Battlefields are persistent physical environments. Terrain, structures, water, fire, smoke, debris, weather, visibility, conductivity, existing seals, ambient chakra and prior jutsu effects remain relevant until they naturally dissipate, are destroyed, removed or otherwise changed. Combat does not reset the environment between actions.
+
+Techniques distinguish between creating a substance/effect and manipulating an existing source. Using available water, earth, vegetation, conductive material or another compatible environmental resource can reduce chakra cost, preparation or Output requirements when the technique supports external-source use. Creating the same material from chakra may be more expensive and may produce different persistence.
+
+Environmental state is tracked at the level needed for meaningful decisions rather than as a full physics simulation. Important properties can include terrain type, elevation/cover, structural integrity, water depth/coverage, active fire, smoke/visibility, wind, precipitation, temperature extremes, conductivity, hazardous substances, chakra interference and Natural Energy conditions.
+
+Fire can spread, consume fuel, generate smoke, heat structures and be weakened by water or lack of oxygen according to circumstance. Water can accumulate, flow, freeze, evaporate, conduct electricity or alter footing. Earth techniques can create cover, trenches, unstable ground or debris. Wind can disperse smoke/gas, intensify or redirect flame and alter projectile trajectories where scale is sufficient.
+
+Weather is an environmental modifier rather than a universal bonus table. Rain, wind, snow, heat, cold, storms and humidity influence only mechanics they plausibly affect. A storm can provide existing water or atmospheric conditions, but does not automatically empower every Water/Lightning technique.
+
+Visibility is separate from physical obstruction. Darkness, smoke, dust, mist, glare and precipitation can reduce visual information while leaving chakra sensing or other sensory channels partially unaffected. Specialized senses still follow their own interference rules.
+
+Structures and cover have material, geometry and structural integrity rather than generic HP alone. Attacks can punch holes, collapse supports, ignite interiors, create debris or leave partial cover. Destroying one portion of a building does not automatically erase the entire structure.
+
+Terrain modification can persist after combat. Walls, craters, flooding, fires, sealed zones and damaged buildings become world state where relevant. Large-scale damage can affect later missions, civilians, infrastructure, economics and politics through other rulesets.
+
+Created material must define persistence. Some jutsu manipulate real existing matter; some transform or generate matter that remains; some produce chakra constructs that vanish when maintenance ends. The technique record determines what remains after chakra control stops.
+
+Environmental chakra effects can persist as residue, contamination, barriers, fields or unusual concentrations when an explicit technique creates them. Residual chakra does not automatically remain detectable forever; decay, weather, interference and technique design determine persistence.
+
+Ambient chakra and Natural Energy are separate concepts. Locations may have unusual chakra density, seals, contamination or interference independent of Natural Energy abundance. Sage-rich environments use the Senjutsu framework rather than being treated as generic chakra batteries.
+
+Confined spaces alter scale and collateral behavior. Large techniques may be harder or more dangerous indoors, underground or near allies because blast, heat, water, smoke or debris cannot disperse normally. Open terrain can reduce some hazards while creating others such as exposure and long sight lines.
+
+Environmental advantages are usable only if characters perceive and understand them. A hidden oil spill, unstable ceiling or buried seal can affect combat even when no participant initially knows it exists; intentional exploitation requires sufficient information.
+
+NPCs and players use identical environmental rules. Off-screen battles can abstract minor terrain details, but consequential environmental changes persist in the world rather than disappearing because the scene ended.
+
 ## Open — later sections
 
-environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
