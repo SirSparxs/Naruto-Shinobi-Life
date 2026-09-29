@@ -336,8 +336,36 @@ Enhancement cannot safely scale without limit. The user's safe Output, body dura
 
 NPCs and players use identical enhancement rules. Chakra reinforcement is common enough to support many combat styles, while exceptional feats require exceptional technique, training or physiology rather than being automatic consequences of high Chakra Control.
 
+## Provisional — 3.18 Universal special ability framework
+
+Special abilities use one shared data model regardless of source. A Kekkei Genkai, dōjutsu, transformation, implanted organ, jinchūriki trait, Sage ability, curse mark, unique physiology or original power may differ in mechanism, but each must explicitly define access, activation, effects, resource use, progression, drawbacks, compatibility and which ordinary rules it modifies.
+
+Special abilities are categorized by Source rather than by assumed power: genetic/inherited, physiological, implanted/transplanted, sealed/bound, external entity, learned exceptional art, transformation/state, environmental/natural-energy, artificial/experimental, or unique anomaly. Source affects inheritance, compatibility, acquisition and loss.
+
+Every ability distinguishes Capacity from Proficiency. Possessing an ability does not imply skilled use. Capacity determines what the character can potentially access; proficiency/mastery determines control, efficiency, reliability, breadth and advanced applications.
+
+Abilities may be passive, triggered, activated, sustained or transformed states. Activation requirements may include chakra, health, stamina, emotion, seals, specific anatomy, environmental conditions, stored resources, external cooperation or cooldown/recovery. If an ability changes Attributes, Skills, senses, Output, reserves or technique access, the modification must be explicit.
+
+Special abilities do not silently override core systems. Any exception must name the rule being changed, its scope and its cost/limitation. Examples include altered chakra generation, unusual sensory channels, regeneration, automatic Nature Transformation, reduced seal requirements, special clone compatibility or access to an otherwise impossible technique.
+
+Power is separated into Access, Control, Output and Application. A character may possess a powerful bloodline yet have poor control, limited safe Output or only a few learned applications. Exceptional source potential does not equal immediate combat superiority.
+
+Progression can occur through normal skill growth, individual technique mastery, staged awakening, biological maturation, relationship/cooperation, stored-resource accumulation, research or specific unlock conditions. Advancement should follow the ability's mechanism rather than a generic level-up schedule.
+
+Drawbacks are functional mechanics, not decorative flavor. They can include chakra drain, stamina/health cost, sensory overload, tissue damage, cooldown, recovery debt, instability, loss of control, emotional requirements, shortened duration, external dependency, compatibility problems or long-term consequences. Drawbacks cannot be ignored merely because the ability is mastered unless mastery logically reduces them.
+
+Acquisition and transfer are source-dependent. Genetic traits may be inherited; organs may be transplanted; seals may bind external power; learned arts may be taught; some abilities are non-transferable. Transplanting or copying access does not automatically grant compatibility, proficiency, supporting anatomy, chakra characteristics or the original user's mastery.
+
+Abilities can have multiple stages/forms. Each stage defines prerequisites, modifications, costs and risks. Higher stages are not assumed to be strictly better in every context; they may increase burden, visibility, instability or resource consumption.
+
+Interactions between multiple special abilities require compatibility checks. Effects may stack, conflict, suppress one another, compete for the same resource/pathways or create new risks. There is no universal unrestricted buff stacking.
+
+Knowledge is separated from possession. Characters may know that an ability exists without understanding its mechanism, stages, weaknesses or counters. Hidden properties and unrevealed awakenings remain internal simulation state until legitimately discovered.
+
+NPCs and players use identical special-ability rules. The simulation may generate original abilities when lineage, experimentation, environment or other world processes plausibly create them; originality never grants protagonist privilege.
+
 ## Open — later sections
 
-special abilities; Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+Kekkei Genkai; dōjutsu; Hiden; transformations; tailed beasts; Sage chakra; Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
