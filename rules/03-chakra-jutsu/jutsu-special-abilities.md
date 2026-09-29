@@ -550,8 +550,38 @@ A user may learn limited Natural Energy sensing, partial Senjutsu infusion or sm
 
 NPCs and players use identical Senjutsu rules. Environmental Natural Energy, hidden overload thresholds, lineage/physiology compatibility and Sage-tradition knowledge persist as simulation state rather than protagonist privileges.
 
+## Provisional — 3.25 Kinjutsu and forbidden techniques
+
+Kinjutsu is primarily a legal, ethical, security or institutional classification layered on top of ordinary technique mechanics. It is not a power rank, elemental type or synonym for S-rank. A low-rank technique can be forbidden, while an extremely powerful technique may remain legal under controlled use.
+
+Every forbidden technique should record why it is restricted. Common reasons include extreme user risk, uncontrolled collateral danger, sacrificial requirements, violation of bodily autonomy, corpse/soul manipulation, dangerous experimentation, irreversible self-modification, catastrophic containment risk, strategic secrecy or a jurisdiction-specific legal prohibition. These reasons are mechanically separate and may overlap.
+
+Technique danger and Kinjutsu status are distinct. Intrinsic danger belongs in the jutsu's risk profile; prohibition belongs in its access/legal metadata. A technique may remain mechanically dangerous even after declassification, and criminalization does not itself make a technique harder to cast.
+
+Kinjutsu status is jurisdictional and historical. Different villages, clans or governments may classify the same technique differently, and classifications can change after wars, disasters, political reform or new research. The simulation tracks the authority imposing the restriction rather than treating "forbidden" as a universal metaphysical property.
+
+Possession, study, teaching, experimentation and use can be regulated separately. An archive may lawfully preserve a prohibited technique while unauthorized possession is criminal; sanctioned researchers may study it without being permitted field use. Exact social/legal consequences belong to world-law systems, while Ruleset 3 tracks the technique's restriction metadata.
+
+Forbidden techniques still use the ordinary Access -> Comprehension -> Acquisition -> Functional Use -> Mastery pipeline. Illicit access does not waive prerequisites. A stolen forbidden scroll can provide knowledge without granting the Chakra Control, biology, materials, sacrifices, seals or expertise necessary to execute it.
+
+Dangerous self-modification and body-altering Kinjutsu must explicitly define what is changed, whether the change is temporary or permanent, the medical/biological risks, reversibility and compatibility. "Forbidden" never grants permission to bypass the Special Ability, Transformation or Injury frameworks.
+
+Sacrificial or exploitative requirements are real technique components rather than abstract moral costs. If a technique requires a living vessel, corpse, blood, lifespan, stolen chakra or another non-chakra resource, that requirement must be explicitly represented and cannot be replaced by ordinary CP unless the technique supports an alternative.
+
+Resurrection, reanimation, soul manipulation and postmortem techniques are exceptional systems. They must define what is actually restored or controlled: body, consciousness, soul, memory, chakra or an imitation. Death is not generically reversible merely because a technique is classified as Kinjutsu.
+
+Human experimentation can generate knowledge, variants or artificial abilities only through the normal research/invention framework plus real subjects, risks, uncertainty and consequences. Experiments do not automatically succeed or produce stronger powers because ethical limits were ignored.
+
+Kinjutsu may be hidden for strategic-security reasons even when the technique is not morally objectionable. Conversely, a technique can be ethically horrific while unknown to authorities and therefore not yet formally classified. Legal knowledge and mechanical truth remain separate.
+
+Mastery can reduce execution mistakes, waste and avoidable user risk where appropriate, but cannot erase intrinsic sacrifices, permanent costs or fundamental danger. A technique whose mechanism consumes lifespan, destroys tissue or requires a sacrifice still does so at high mastery unless its mechanism explicitly allows mitigation.
+
+Forbidden techniques can be copied, reverse engineered, modified, rediscovered, leaked or lost under the ordinary knowledge rules. A derived safer variant may receive a different legal classification if its dangerous mechanism is genuinely removed.
+
+NPCs and players use identical Kinjutsu rules. The simulation tracks who knows a forbidden technique, how they acquired it, the reasons it is restricted, relevant jurisdictions and the actual mechanical risks independently of whether the player has discovered those facts.
+
 ## Open — later sections
 
-Kinjutsu; copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+copying/analysis; jutsu creation; counters/interactions; environmental systems; chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
