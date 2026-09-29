@@ -696,8 +696,34 @@ Environmental advantages are usable only if characters perceive and understand t
 
 NPCs and players use identical environmental rules. Off-screen battles can abstract minor terrain details, but consequential environmental changes persist in the world rather than disappearing because the scene ended.
 
+## Provisional — 3.30 Chakra disruption, absorption and resource interference
+
+Chakra interference is divided into distinct mechanisms: absorption/drain removes or captures chakra; nullification/disruption breaks a technique's structure; suppression/sealing restricts access or flow; pathway interference alters the target's ability to circulate or output chakra. These effects are not interchangeable.
+
+Absorption techniques explicitly define valid targets, delivery method, absorption rate, total capacity, conversion efficiency, compatibility, storage/disposal method and overload behavior. Being able to absorb chakra does not create universal ninjutsu immunity. Incoming Output can exceed absorption rate, total energy can exceed capacity, incompatible chakra can be dangerous and physical effects already created by a technique can remain after its chakra is removed.
+
+Chakra taken from another character remains foreign chakra unless the absorber has a mechanism that converts or assimilates it. Conversion can lose energy and may require filtering. Nature-transformed chakra, Senjutsu chakra, tailed-beast chakra, contaminated chakra or other special sources can impose additional compatibility risks.
+
+Draining a living target normally requires a valid connection such as contact, tether, field, seal or implanted mechanism. Drain rate competes with the target's ability to resist, break contact, suppress flow or disrupt the technique. A drain cannot remove infinite chakra instantaneously unless an extraordinary explicit mechanism supports that rate.
+
+Absorbing a sustained technique can starve or collapse it if the absorber removes chakra faster than the caster can supply it. Released, autonomous, materialized or already-converted effects may continue even after their original chakra connection is severed.
+
+Nullification and disruption do not necessarily transfer chakra to the defender. A technique can be destabilized, dispersed or have its Shape/Nature structure broken without the defender gaining usable energy. Cancellation requires an actual interference mechanism.
+
+Pathway disruption can be localized or systemic. Precision attacks may impair specific chakra routes, tenketsu, limbs, organs or Output channels. Effects can include reduced Control, reduced Output, higher jutsu cost, failed circulation or temporary inability to use certain techniques. Severe pathway damage belongs to the injury system and is not automatically repaired when combat ends.
+
+Chakra suppression and sealing restrict what chakra can be accessed, circulated or released rather than deleting the underlying reserves. A suppressed character may still possess a full pool while being unable to use some or all of it. Seals can define partial limits, trigger conditions, authorized pathways and release conditions.
+
+Transformations and special abilities can be disrupted only through mechanisms relevant to their source. Cutting off external chakra may end a cloak powered by that source; sealing a chakra pathway may prevent activation; neither automatically reverses a permanent biological transformation.
+
+Natural Energy interference follows the Senjutsu framework. Absorbing or transferring Natural Energy without the ability to sense and balance it can cause overload rather than providing free Sage power.
+
+Resource conservation applies. Absorption does not create net chakra, and repeated absorb/release loops cannot generate energy from nothing. Efficiency losses, capacity limits and source depletion remain real unless a special ability explicitly changes them.
+
+NPCs and players use identical interference rules. Exact remaining reserves, absorption limits, hidden seals and pathway damage can remain internal state until legitimate sensing, diagnosis or experience reveals them.
+
 ## Open — later sections
 
-chakra disruption/absorption; non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+non-chakra resources; NPC usage; knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
