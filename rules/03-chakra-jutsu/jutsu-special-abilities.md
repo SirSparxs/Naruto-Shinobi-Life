@@ -750,8 +750,44 @@ Carry burden is modeled at useful qualitative detail rather than exact weight fo
 
 Resource availability persists across scenes. Expended tags, medicine, ammunition and ingredients remain gone until recovered, purchased, issued, crafted or otherwise replenished. NPCs use the same supply constraints. Off-screen activity can abstract routine consumption but must preserve consequential shortages and rare-item losses.
 
+## Provisional — 3.32 NPC jutsu selection, training and off-screen usage
+
+NPCs use the same jutsu, learning, mastery, resource and special-ability rules as players, but routine off-screen development can be abstracted. The simulation preserves causes and consequences without replaying every practice session or every low-importance mission.
+
+An NPC's arsenal should emerge from their actual history: village curriculum, clan/Hiden access, teachers, team composition, profession, mission history, affinities, Attributes/Skills, personal interests, available research, equipment, injuries and organizational doctrine. Rank can broaden access and responsibility but does not automatically grant techniques.
+
+NPC learning priorities are role- and personality-dependent. A tracker, medic, bodyguard, infiltrator and frontline combatant should spend training time differently even at the same formal rank. Characters can also ignore optimal training, pursue favorite techniques, abandon family traditions or specialize narrowly.
+
+NPCs have finite training time and opportunity cost. Learning one difficult discipline consumes time that could have improved another. Broad arsenals generally reflect long careers, strong institutions, copying advantages, exceptional aptitude or deliberate versatility training rather than free accumulation.
+
+Off-screen growth is event-driven. Important changes such as promotion, new mentor, clan initiation, war deployment, injury, team reassignment, research access, major failure or repeated battlefield need can trigger reevaluation of an NPC's training plan. Routine periods can advance existing Skills/masteries according to established habits and available time.
+
+The simulation may use training summaries rather than individual rolls for routine safe practice. Unusual breakthroughs, dangerous training, prerequisite gaps, research, awakenings and consequential failures still use the normal systems and Ruleset 2 where uncertainty matters.
+
+NPC jutsu selection in combat is tactical rather than rank-maximizing. Selection considers objective, information, range, terrain, allies/civilians, activation speed, chakra reserves, Output, mastery, reliability, known counters, equipment, secrecy, collateral risk and expected future resource needs.
+
+NPCs do not automatically know an opponent's hidden abilities, current chakra, weaknesses or prepared resources. They choose from information actually available through observation, intelligence and prior experience. They can make mistakes, misidentify techniques and update tactics after learning.
+
+Signature/favored techniques are preferred because high mastery, habit and tactical integration make them reliable, not because the AI receives an arbitrary signature bonus. Under pressure, NPCs often choose familiar solutions unless circumstances demand experimentation.
+
+NPCs conserve resources according to personality and stakes. A disciplined shinobi may avoid an expensive A-rank technique against a minor threat; a desperate, reckless or poorly informed character may overspend. Retreat, surrender and delaying tactics are valid when continued combat is irrational.
+
+Teams coordinate according to actual doctrine, communication and familiarity. Established squads can combine techniques, protect setup time, share sensory information and allocate roles more efficiently than strangers. Perfect coordination is not assumed.
+
+Off-screen combat can abstract individual technique-by-technique execution when detail would not change meaningful outcomes. The abstraction must still respect relative capability, known arsenals, resources, injuries, terrain and plausible risk. Important deaths, rare-resource use, new injuries, revealed abilities and major environmental damage remain persistent.
+
+Hidden NPC state includes exact jutsu mastery, undisclosed techniques, latent abilities, research progress, resource shortages and tactical knowledge. The player learns these only through legitimate observation, intelligence or disclosure.
+
+NPCs can teach, copy, invent, reverse engineer, lose and forget practical sharpness under the same rules as players. Institutions can standardize successful techniques, while isolated practitioners may carry unique techniques that disappear if knowledge is not transmitted.
+
+Large populations are simulated at layered fidelity. Major recurring NPCs retain detailed individual records; relevant secondary NPCs retain role-appropriate arsenals and progression state; background populations can use templates/distributions until they become important, at which point persistent specifics are instantiated consistently from prior facts.
+
+Abstraction cannot retroactively optimize an NPC for the current scene. When a background character becomes important, their generated arsenal must follow their established age, rank, clan, village, profession, history and previously observed capabilities rather than conveniently producing perfect counters.
+
+NPCs and players therefore share one mechanical reality while differing only in simulation granularity. Detail increases when choices and consequences matter; abstraction compresses uneventful periods without changing the rules underneath.
+
 ## Open — later sections
 
-NPC usage; knowledge/rarity; generational transmission; balance safeguards.
+knowledge/rarity; generational transmission; balance safeguards.
 
 Track completion in issue #3.
